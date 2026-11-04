@@ -1,0 +1,82 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function signedIn() { return request.auth != null; }
+    function teacher() { return signedIn() && exists(/databases/$(database)/documents/admins/$(request.auth.uid)); }
+    function self(uid) { return signedIn() && request.auth.uid == uid; }
+    function scoreOK(x) { return x is number && x >= 0 && x <= 10; }
+    function timeOK(x) { return x is number && x >= 0 && x <= 10800; }
+    match /admins/{uid} {
+      allow get: if self(uid) || teacher();
+      allow list: if teacher();
+      allow write: if false; // Tạo admin đầu tiên thủ công từ Firebase Console.
+    }
+    match /tests/{id} {
+      allow get: if teacher() || (signedIn() && resource.data.published == true);
+      allow list: if teacher() || (signedIn() && resource.data.published == true);
+      allow create, update, delete: if teacher();
+    }
+    match /students/{uid} {
+      allow read: if teacher() || self(uid);
+      allow create, update, delete: if teacher();
+    }
+    match /publicProfiles/{uid} {
+      allow read: if signedIn();
+      allow create, update, delete: if teacher();
+    }
+    match /progress/{id} {
+      allow read: if teacher() || (signedIn() && resource.data.uid == request.auth.uid);
+      allow create: if signedIn()
+        && request.resource.data.uid == request.auth.uid
+        && id == request.auth.uid + '_' + request.resource.data.testId
+        && scoreOK(request.resource.data.firstScore)
+        && scoreOK(request.resource.data.bestScore)
+        && scoreOK(request.resource.data.lastScore)
+        && timeOK(request.resource.data.firstDuration)
+        && timeOK(request.resource.data.bestDuration)
+        && timeOK(request.resource.data.lastDuration)
+        && request.resource.data.attempts == 1
+        && request.resource.data.firstScore == request.resource.data.bestScore;
+      allow update: if signedIn()
+        && resource.data.uid == request.auth.uid
+        && request.resource.data.uid == resource.data.uid
+        && request.resource.data.testId == resource.data.testId
+        && id == request.auth.uid + '_' + resource.data.testId
+        && request.resource.data.firstScore == resource.data.firstScore
+        && request.resource.data.firstDuration == resource.data.firstDuration
+        && request.resource.data.firstAt == resource.data.firstAt
+        && request.resource.data.attempts == resource.data.attempts + 1
+        && scoreOK(request.resource.data.lastScore)
+        && scoreOK(request.resource.data.bestScore)
+        && request.resource.data.bestScore >= resource.data.bestScore
+        && timeOK(request.resource.data.bestDuration)
+        && timeOK(request.resource.data.lastDuration);
+      allow delete: if teacher();
+    }
+    match /attempts/{id} {
+      allow get, list: if teacher() || (signedIn() && resource.data.uid == request.auth.uid);
+      allow create: if signedIn()
+        && request.resource.data.uid == request.auth.uid
+        && scoreOK(request.resource.data.score)
+        && timeOK(request.resource.data.duration)
+        && request.resource.data.correct is int
+        && request.resource.data.total is int
+        && request.resource.data.correct >= 0
+        && request.resource.data.total >= 1
+        && request.resource.data.correct <= request.resource.data.total;
+      allow update, delete: if teacher();
+    }
+    match /leaderboards/{id} {
+      allow get, list: if signedIn();
+      allow create, update: if signedIn()
+        && request.resource.data.uid == request.auth.uid
+        && id == request.auth.uid + '_' + request.resource.data.testId
+        && scoreOK(request.resource.data.bestScore)
+        && timeOK(request.resource.data.bestDuration)
+        && (!exists(/databases/$(database)/documents/leaderboards/$(id))
+            || request.resource.data.bestScore >= resource.data.bestScore);
+      allow delete: if teacher();
+    }
+    match /{document=**} { allow read, write: if false; }
+  }
+}
