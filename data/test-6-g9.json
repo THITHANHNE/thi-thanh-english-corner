@@ -1,0 +1,382 @@
+{
+  "test_name": "TEST 6 _ G9",
+  "question_count": 15,
+  "questions": [
+    {
+      "number": 1,
+      "type": "Đọc điền từ",
+      "question": "Choose the correct word for blank (1).",
+      "question_html": "Choose the correct word for blank (1).",
+      "options": {
+        "A": "profits",
+        "B": "benefits",
+        "C": "drawbacks",
+        "D": "difficulties"
+      },
+      "options_html": {
+        "A": "profits",
+        "B": "benefits",
+        "C": "drawbacks",
+        "D": "difficulties"
+      },
+      "answer": "B",
+      "passage": "In spite of its many (1) _______, living in the city also brings lots of disadvantages. The first problem is that citizens have to deal with traffic congestions every day. This problem is even worse (2) _______ the rush hour when so many people run out to work and are stuck on streets for hours. Moreover, ambulance and fire engine sometimes can't get in time to complete duty, which makes a lot of serious loss. High cost of living is also a serious issue in the city, especially in metropolitan cities. More and more people find (3) difficult to live on their modest salaries when prices are going up all the time. Financial pressure makes city dwellers become constantly stressed and tired. Another drawback of the city life is the (4) ______ air caused by exhaust emissions from millions of vehicles, construction dust and the lack of green trees. This negatively affects residents' health. (5) ________ people suffer from respiratory problems such as lung cancer, sore throat or asthma.",
+      "passage_html": "In spite of its many (1) _______, living in the city also brings lots of disadvantages. The first problem is that citizens have to deal with traffic congestions every day. This problem is even worse (2) _______ the rush hour when so many people run out to work and are stuck on streets for hours. Moreover, ambulance and fire engine sometimes can&#x27;t get in time to complete duty, which makes a lot of serious loss. High cost of living is also a serious issue in the city, especially in metropolitan cities. More and more people find (3) difficult to live on their modest salaries when prices are going up all the time. Financial pressure makes city dwellers become constantly stressed and tired. Another drawback of the city life is the (4) ______ air caused by exhaust emissions from millions of vehicles, construction dust and the lack of green trees. This negatively affects residents&#x27; health. (5) ________ people suffer from respiratory problems such as lung cancer, sore throat or asthma.",
+      "blank": 1,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “benefits”. benefits = những lợi ích; đối lập với disadvantages."
+    },
+    {
+      "number": 2,
+      "type": "Đọc điền từ",
+      "question": "Choose the correct word for blank (2).",
+      "question_html": "Choose the correct word for blank (2).",
+      "options": {
+        "A": "on",
+        "B": "in",
+        "C": "at",
+        "D": "by"
+      },
+      "options_html": {
+        "A": "on",
+        "B": "in",
+        "C": "at",
+        "D": "by"
+      },
+      "answer": "B",
+      "passage": "In spite of its many (1) _______, living in the city also brings lots of disadvantages. The first problem is that citizens have to deal with traffic congestions every day. This problem is even worse (2) _______ the rush hour when so many people run out to work and are stuck on streets for hours. Moreover, ambulance and fire engine sometimes can't get in time to complete duty, which makes a lot of serious loss. High cost of living is also a serious issue in the city, especially in metropolitan cities. More and more people find (3) difficult to live on their modest salaries when prices are going up all the time. Financial pressure makes city dwellers become constantly stressed and tired. Another drawback of the city life is the (4) ______ air caused by exhaust emissions from millions of vehicles, construction dust and the lack of green trees. This negatively affects residents' health. (5) ________ people suffer from respiratory problems such as lung cancer, sore throat or asthma.",
+      "passage_html": "In spite of its many (1) _______, living in the city also brings lots of disadvantages. The first problem is that citizens have to deal with traffic congestions every day. This problem is even worse (2) _______ the rush hour when so many people run out to work and are stuck on streets for hours. Moreover, ambulance and fire engine sometimes can&#x27;t get in time to complete duty, which makes a lot of serious loss. High cost of living is also a serious issue in the city, especially in metropolitan cities. More and more people find (3) difficult to live on their modest salaries when prices are going up all the time. Financial pressure makes city dwellers become constantly stressed and tired. Another drawback of the city life is the (4) ______ air caused by exhaust emissions from millions of vehicles, construction dust and the lack of green trees. This negatively affects residents&#x27; health. (5) ________ people suffer from respiratory problems such as lung cancer, sore throat or asthma.",
+      "blank": 2,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “in”. in the suburbs = ở vùng ngoại ô."
+    },
+    {
+      "number": 3,
+      "type": "Đọc điền từ",
+      "question": "Choose the correct word for blank (3).",
+      "question_html": "Choose the correct word for blank (3).",
+      "options": {
+        "A": "it",
+        "B": "them",
+        "C": "their",
+        "D": "they"
+      },
+      "options_html": {
+        "A": "it",
+        "B": "them",
+        "C": "their",
+        "D": "they"
+      },
+      "answer": "A",
+      "passage": "In spite of its many (1) _______, living in the city also brings lots of disadvantages. The first problem is that citizens have to deal with traffic congestions every day. This problem is even worse (2) _______ the rush hour when so many people run out to work and are stuck on streets for hours. Moreover, ambulance and fire engine sometimes can't get in time to complete duty, which makes a lot of serious loss. High cost of living is also a serious issue in the city, especially in metropolitan cities. More and more people find (3) difficult to live on their modest salaries when prices are going up all the time. Financial pressure makes city dwellers become constantly stressed and tired. Another drawback of the city life is the (4) ______ air caused by exhaust emissions from millions of vehicles, construction dust and the lack of green trees. This negatively affects residents' health. (5) ________ people suffer from respiratory problems such as lung cancer, sore throat or asthma.",
+      "passage_html": "In spite of its many (1) _______, living in the city also brings lots of disadvantages. The first problem is that citizens have to deal with traffic congestions every day. This problem is even worse (2) _______ the rush hour when so many people run out to work and are stuck on streets for hours. Moreover, ambulance and fire engine sometimes can&#x27;t get in time to complete duty, which makes a lot of serious loss. High cost of living is also a serious issue in the city, especially in metropolitan cities. More and more people find (3) difficult to live on their modest salaries when prices are going up all the time. Financial pressure makes city dwellers become constantly stressed and tired. Another drawback of the city life is the (4) ______ air caused by exhaust emissions from millions of vehicles, construction dust and the lack of green trees. This negatively affects residents&#x27; health. (5) ________ people suffer from respiratory problems such as lung cancer, sore throat or asthma.",
+      "blank": 3,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “it”. find it + adjective + to V = thấy việc gì đó như thế nào."
+    },
+    {
+      "number": 4,
+      "type": "Đọc điền từ",
+      "question": "Choose the correct word for blank (4).",
+      "question_html": "Choose the correct word for blank (4).",
+      "options": {
+        "A": "pollutant",
+        "B": "pollute",
+        "C": "polluted",
+        "D": "pollution"
+      },
+      "options_html": {
+        "A": "pollutant",
+        "B": "pollute",
+        "C": "polluted",
+        "D": "pollution"
+      },
+      "answer": "C",
+      "passage": "In spite of its many (1) _______, living in the city also brings lots of disadvantages. The first problem is that citizens have to deal with traffic congestions every day. This problem is even worse (2) _______ the rush hour when so many people run out to work and are stuck on streets for hours. Moreover, ambulance and fire engine sometimes can't get in time to complete duty, which makes a lot of serious loss. High cost of living is also a serious issue in the city, especially in metropolitan cities. More and more people find (3) difficult to live on their modest salaries when prices are going up all the time. Financial pressure makes city dwellers become constantly stressed and tired. Another drawback of the city life is the (4) ______ air caused by exhaust emissions from millions of vehicles, construction dust and the lack of green trees. This negatively affects residents' health. (5) ________ people suffer from respiratory problems such as lung cancer, sore throat or asthma.",
+      "passage_html": "In spite of its many (1) _______, living in the city also brings lots of disadvantages. The first problem is that citizens have to deal with traffic congestions every day. This problem is even worse (2) _______ the rush hour when so many people run out to work and are stuck on streets for hours. Moreover, ambulance and fire engine sometimes can&#x27;t get in time to complete duty, which makes a lot of serious loss. High cost of living is also a serious issue in the city, especially in metropolitan cities. More and more people find (3) difficult to live on their modest salaries when prices are going up all the time. Financial pressure makes city dwellers become constantly stressed and tired. Another drawback of the city life is the (4) ______ air caused by exhaust emissions from millions of vehicles, construction dust and the lack of green trees. This negatively affects residents&#x27; health. (5) ________ people suffer from respiratory problems such as lung cancer, sore throat or asthma.",
+      "blank": 4,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “polluted”. polluted air = không khí bị ô nhiễm; cần tính từ."
+    },
+    {
+      "number": 5,
+      "type": "Đọc điền từ",
+      "question": "Choose the correct word for blank (5).",
+      "question_html": "Choose the correct word for blank (5).",
+      "options": {
+        "A": "little",
+        "B": "A lot",
+        "C": "Few",
+        "D": "Many"
+      },
+      "options_html": {
+        "A": "little",
+        "B": "A lot",
+        "C": "Few",
+        "D": "Many"
+      },
+      "answer": "D",
+      "passage": "In spite of its many (1) _______, living in the city also brings lots of disadvantages. The first problem is that citizens have to deal with traffic congestions every day. This problem is even worse (2) _______ the rush hour when so many people run out to work and are stuck on streets for hours. Moreover, ambulance and fire engine sometimes can't get in time to complete duty, which makes a lot of serious loss. High cost of living is also a serious issue in the city, especially in metropolitan cities. More and more people find (3) difficult to live on their modest salaries when prices are going up all the time. Financial pressure makes city dwellers become constantly stressed and tired. Another drawback of the city life is the (4) ______ air caused by exhaust emissions from millions of vehicles, construction dust and the lack of green trees. This negatively affects residents' health. (5) ________ people suffer from respiratory problems such as lung cancer, sore throat or asthma.",
+      "passage_html": "In spite of its many (1) _______, living in the city also brings lots of disadvantages. The first problem is that citizens have to deal with traffic congestions every day. This problem is even worse (2) _______ the rush hour when so many people run out to work and are stuck on streets for hours. Moreover, ambulance and fire engine sometimes can&#x27;t get in time to complete duty, which makes a lot of serious loss. High cost of living is also a serious issue in the city, especially in metropolitan cities. More and more people find (3) difficult to live on their modest salaries when prices are going up all the time. Financial pressure makes city dwellers become constantly stressed and tired. Another drawback of the city life is the (4) ______ air caused by exhaust emissions from millions of vehicles, construction dust and the lack of green trees. This negatively affects residents&#x27; health. (5) ________ people suffer from respiratory problems such as lung cancer, sore throat or asthma.",
+      "blank": 5,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “Many”. many + danh từ đếm được số nhiều (people)."
+    },
+    {
+      "number": 6,
+      "type": "Đọc hiểu",
+      "question": "1. What is the passage mainly about?",
+      "question_html": "1. What is the passage mainly about?",
+      "options": {
+        "A": "Advantages of living in big cities",
+        "B": "Disadvantages of living in big cities",
+        "C": "Drawbacks of living rural areas",
+        "D": "Benefits of living rural areas"
+      },
+      "options_html": {
+        "A": "Advantages of living in big cities",
+        "B": "Disadvantages of living in big cities",
+        "C": "Drawbacks of living rural areas",
+        "D": "Benefits of living rural areas"
+      },
+      "answer": "A",
+      "passage": "Do you live in a big city? It is said that living in big cities is expensive because of the high living cost. There are also pollution and traffic problems that make living in big cities unpleasant. However, many people enjoy living in big cities because they offer convenience and countless options for entertainment.\nMany big cities already have good public transportation systems, which makes it easy for the citizens to go anywhere around the city. This also reduces and helps overcome the problem of traffic jams that often occur at peak times. With the convenience of public transportation, the citizens do not have to drive everywhere and can save money as they do not have to pay for parking charges.\nStaying healthy is everybody's concern and in big cities you can find the best possible medical care for any diseases, especially the severe ones. Moreover, compared to rural areas, access to medical treatment is easier because there are always clinics or medical centers that open 24 hours in many parts of the city so\nyou can get medical help anytime, as soon as you need it. Reaching hospitals is also easier as public transport is usually available 24 hours a day.",
+      "passage_html": "Do you live in a big city? It is said that living in big cities is expensive because of the high living cost. There are also pollution and traffic problems that make living in big cities unpleasant. However, many people enjoy living in big cities because they offer convenience and <u>countless</u> options for entertainment.<br>Many big cities already have good public transportation systems, which makes it easy for the citizens to go anywhere around the city. This also reduces and helps overcome the problem of traffic jams that often occur at peak times. With the convenience of public transportation, the citizens do not have to drive everywhere and can save money as they do not have to pay for parking charges.<br>Staying healthy is everybody&#x27;s concern and in big cities you can find the best possible medical care for any diseases, especially the severe ones. Moreover, compared to rural areas, access to medical treatment is easier because there are always clinics or medical centers that open 24 hours in many parts of the city so<br>you can get medical help anytime, as soon as you need it. Reaching hospitals is also easier as public transport is usually available 24 hours a day.",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Theo thông tin trong đoạn văn, phương án “Advantages of living in big cities” phù hợp nhất. Đối chiếu trực tiếp với nội dung bài đọc."
+    },
+    {
+      "number": 7,
+      "type": "Đọc hiểu",
+      "question": "2. Which of the _____ following is closest in meaning to the word \"countless\" in paragraph 1?",
+      "question_html": "2. Which of the _____ following is closest in meaning to the word &quot;countless&quot; in paragraph 1?",
+      "options": {
+        "A": "definite",
+        "B": "numberless",
+        "C": "measurable",
+        "D": "limited"
+      },
+      "options_html": {
+        "A": "definite",
+        "B": "numberless",
+        "C": "measurable",
+        "D": "limited"
+      },
+      "answer": "B",
+      "passage": "Do you live in a big city? It is said that living in big cities is expensive because of the high living cost. There are also pollution and traffic problems that make living in big cities unpleasant. However, many people enjoy living in big cities because they offer convenience and countless options for entertainment.\nMany big cities already have good public transportation systems, which makes it easy for the citizens to go anywhere around the city. This also reduces and helps overcome the problem of traffic jams that often occur at peak times. With the convenience of public transportation, the citizens do not have to drive everywhere and can save money as they do not have to pay for parking charges.\nStaying healthy is everybody's concern and in big cities you can find the best possible medical care for any diseases, especially the severe ones. Moreover, compared to rural areas, access to medical treatment is easier because there are always clinics or medical centers that open 24 hours in many parts of the city so\nyou can get medical help anytime, as soon as you need it. Reaching hospitals is also easier as public transport is usually available 24 hours a day.",
+      "passage_html": "Do you live in a big city? It is said that living in big cities is expensive because of the high living cost. There are also pollution and traffic problems that make living in big cities unpleasant. However, many people enjoy living in big cities because they offer convenience and <u>countless</u> options for entertainment.<br>Many big cities already have good public transportation systems, which makes it easy for the citizens to go anywhere around the city. This also reduces and helps overcome the problem of traffic jams that often occur at peak times. With the convenience of public transportation, the citizens do not have to drive everywhere and can save money as they do not have to pay for parking charges.<br>Staying healthy is everybody&#x27;s concern and in big cities you can find the best possible medical care for any diseases, especially the severe ones. Moreover, compared to rural areas, access to medical treatment is easier because there are always clinics or medical centers that open 24 hours in many parts of the city so<br>you can get medical help anytime, as soon as you need it. Reaching hospitals is also easier as public transport is usually available 24 hours a day.",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Theo thông tin trong đoạn văn, phương án “numberless” phù hợp nhất. Đối chiếu trực tiếp với nội dung bài đọc."
+    },
+    {
+      "number": 8,
+      "type": "Đọc hiểu",
+      "question": "3. What makes living in big cities costly?",
+      "question_html": "3. What makes living in big cities costly?",
+      "options": {
+        "A": "public transport",
+        "B": "healthcare",
+        "C": "high cost of living",
+        "D": "high parking charges"
+      },
+      "options_html": {
+        "A": "public transport",
+        "B": "healthcare",
+        "C": "high cost of living",
+        "D": "high parking charges"
+      },
+      "answer": "C",
+      "passage": "Do you live in a big city? It is said that living in big cities is expensive because of the high living cost. There are also pollution and traffic problems that make living in big cities unpleasant. However, many people enjoy living in big cities because they offer convenience and countless options for entertainment.\nMany big cities already have good public transportation systems, which makes it easy for the citizens to go anywhere around the city. This also reduces and helps overcome the problem of traffic jams that often occur at peak times. With the convenience of public transportation, the citizens do not have to drive everywhere and can save money as they do not have to pay for parking charges.\nStaying healthy is everybody's concern and in big cities you can find the best possible medical care for any diseases, especially the severe ones. Moreover, compared to rural areas, access to medical treatment is easier because there are always clinics or medical centers that open 24 hours in many parts of the city so\nyou can get medical help anytime, as soon as you need it. Reaching hospitals is also easier as public transport is usually available 24 hours a day.",
+      "passage_html": "Do you live in a big city? It is said that living in big cities is expensive because of the high living cost. There are also pollution and traffic problems that make living in big cities unpleasant. However, many people enjoy living in big cities because they offer convenience and <u>countless</u> options for entertainment.<br>Many big cities already have good public transportation systems, which makes it easy for the citizens to go anywhere around the city. This also reduces and helps overcome the problem of traffic jams that often occur at peak times. With the convenience of public transportation, the citizens do not have to drive everywhere and can save money as they do not have to pay for parking charges.<br>Staying healthy is everybody&#x27;s concern and in big cities you can find the best possible medical care for any diseases, especially the severe ones. Moreover, compared to rural areas, access to medical treatment is easier because there are always clinics or medical centers that open 24 hours in many parts of the city so<br>you can get medical help anytime, as soon as you need it. Reaching hospitals is also easier as public transport is usually available 24 hours a day.",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Theo thông tin trong đoạn văn, phương án “high cost of living” phù hợp nhất. Đối chiếu trực tiếp với nội dung bài đọc."
+    },
+    {
+      "number": 9,
+      "type": "Đọc hiểu",
+      "question": "4. According to the passage, what is people's concern?",
+      "question_html": "4. According to the passage, what is people&#x27;s concern?",
+      "options": {
+        "A": "traffic congestions",
+        "B": "air pollution",
+        "C": "medical centers",
+        "D": "good health"
+      },
+      "options_html": {
+        "A": "traffic congestions",
+        "B": "air pollution",
+        "C": "medical centers",
+        "D": "good health"
+      },
+      "answer": "D",
+      "passage": "Do you live in a big city? It is said that living in big cities is expensive because of the high living cost. There are also pollution and traffic problems that make living in big cities unpleasant. However, many people enjoy living in big cities because they offer convenience and countless options for entertainment.\nMany big cities already have good public transportation systems, which makes it easy for the citizens to go anywhere around the city. This also reduces and helps overcome the problem of traffic jams that often occur at peak times. With the convenience of public transportation, the citizens do not have to drive everywhere and can save money as they do not have to pay for parking charges.\nStaying healthy is everybody's concern and in big cities you can find the best possible medical care for any diseases, especially the severe ones. Moreover, compared to rural areas, access to medical treatment is easier because there are always clinics or medical centers that open 24 hours in many parts of the city so\nyou can get medical help anytime, as soon as you need it. Reaching hospitals is also easier as public transport is usually available 24 hours a day.",
+      "passage_html": "Do you live in a big city? It is said that living in big cities is expensive because of the high living cost. There are also pollution and traffic problems that make living in big cities unpleasant. However, many people enjoy living in big cities because they offer convenience and <u>countless</u> options for entertainment.<br>Many big cities already have good public transportation systems, which makes it easy for the citizens to go anywhere around the city. This also reduces and helps overcome the problem of traffic jams that often occur at peak times. With the convenience of public transportation, the citizens do not have to drive everywhere and can save money as they do not have to pay for parking charges.<br>Staying healthy is everybody&#x27;s concern and in big cities you can find the best possible medical care for any diseases, especially the severe ones. Moreover, compared to rural areas, access to medical treatment is easier because there are always clinics or medical centers that open 24 hours in many parts of the city so<br>you can get medical help anytime, as soon as you need it. Reaching hospitals is also easier as public transport is usually available 24 hours a day.",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Theo thông tin trong đoạn văn, phương án “good health” phù hợp nhất. Đối chiếu trực tiếp với nội dung bài đọc."
+    },
+    {
+      "number": 10,
+      "type": "Đọc hiểu",
+      "question": "5. It can be inferred from the passage that in big cities",
+      "question_html": "5. It can be inferred from the passage that in big cities",
+      "options": {
+        "A": "no one cares about the high cost of living.",
+        "B": "it's impossible to get medical care for severe diseases.",
+        "C": "traffic jams are often seen during rush hours.",
+        "D": "city dwellers do not have to pay for parking."
+      },
+      "options_html": {
+        "A": "no one cares about the high cost of living.",
+        "B": "it&#x27;s impossible to get medical care for severe diseases.",
+        "C": "traffic jams are often seen during rush hours.",
+        "D": "city dwellers do not have to pay for parking."
+      },
+      "answer": "C",
+      "passage": "Do you live in a big city? It is said that living in big cities is expensive because of the high living cost. There are also pollution and traffic problems that make living in big cities unpleasant. However, many people enjoy living in big cities because they offer convenience and countless options for entertainment.\nMany big cities already have good public transportation systems, which makes it easy for the citizens to go anywhere around the city. This also reduces and helps overcome the problem of traffic jams that often occur at peak times. With the convenience of public transportation, the citizens do not have to drive everywhere and can save money as they do not have to pay for parking charges.\nStaying healthy is everybody's concern and in big cities you can find the best possible medical care for any diseases, especially the severe ones. Moreover, compared to rural areas, access to medical treatment is easier because there are always clinics or medical centers that open 24 hours in many parts of the city so\nyou can get medical help anytime, as soon as you need it. Reaching hospitals is also easier as public transport is usually available 24 hours a day.",
+      "passage_html": "Do you live in a big city? It is said that living in big cities is expensive because of the high living cost. There are also pollution and traffic problems that make living in big cities unpleasant. However, many people enjoy living in big cities because they offer convenience and <u>countless</u> options for entertainment.<br>Many big cities already have good public transportation systems, which makes it easy for the citizens to go anywhere around the city. This also reduces and helps overcome the problem of traffic jams that often occur at peak times. With the convenience of public transportation, the citizens do not have to drive everywhere and can save money as they do not have to pay for parking charges.<br>Staying healthy is everybody&#x27;s concern and in big cities you can find the best possible medical care for any diseases, especially the severe ones. Moreover, compared to rural areas, access to medical treatment is easier because there are always clinics or medical centers that open 24 hours in many parts of the city so<br>you can get medical help anytime, as soon as you need it. Reaching hospitals is also easier as public transport is usually available 24 hours a day.",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Theo thông tin trong đoạn văn, phương án “traffic jams are often seen during rush hours.” phù hợp nhất. Đối chiếu trực tiếp với nội dung bài đọc."
+    },
+    {
+      "number": 11,
+      "type": "Giao tiếp",
+      "question": "Ann: \"Alex, the traffic in this city is unbearable!\" - Alex: \"I know, Ann. _______.\"",
+      "question_html": "Ann: &quot;Alex, the traffic in this city is unbearable!&quot; - Alex: &quot;I know, Ann. _______.&quot;",
+      "options": {
+        "A": "You are Welcome.",
+        "B": "I think it's quite hard to do that.",
+        "C": "You are excellent.",
+        "D": "It takes forever to get anywhere"
+      },
+      "options_html": {
+        "A": "You are Welcome.",
+        "B": "I think it&#x27;s quite hard to do that.",
+        "C": "You are excellent.",
+        "D": "It takes forever to get anywhere"
+      },
+      "answer": "D",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Câu đáp “It takes forever to get anywhere” phù hợp với lời thoại trước/sau, tạo thành một cuộc hội thoại có nghĩa."
+    },
+    {
+      "number": 12,
+      "type": "Giao tiếp",
+      "question": "Ann: \"_______\" - Alex: \"I love it! There are so many clubs and bars.\"",
+      "question_html": "Ann: &quot;_______&quot; - Alex: &quot;I love it! There are so many clubs and bars.&quot;",
+      "options": {
+        "A": "Would you like to have dinner with me?”",
+        "B": "Do you feel like going to the cinema this afternoon?",
+        "C": "What do you think of the nightlife here?",
+        "D": "What can I do for you?"
+      },
+      "options_html": {
+        "A": "Would you like to have dinner with me?”",
+        "B": "Do you feel like going to the cinema this afternoon?",
+        "C": "What do you think of the nightlife here?",
+        "D": "What can I do for you?"
+      },
+      "answer": "C",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Câu đáp “What do you think of the nightlife here?” phù hợp với lời thoại trước/sau, tạo thành một cuộc hội thoại có nghĩa."
+    },
+    {
+      "number": 13,
+      "type": "Giao tiếp",
+      "question": "Ann: \"Alex, do you feel safe walking around at night?\" - Alex: \"Generally, yes. ________.\"",
+      "question_html": "Ann: &quot;Alex, do you feel safe walking around at night?&quot; - Alex: &quot;Generally, yes. ________.&quot;",
+      "options": {
+        "A": "I haven’t experienced it much",
+        "B": "It’s too noisy for me",
+        "C": "But it's always good to be cautious",
+        "D": "I prefer staying at home"
+      },
+      "options_html": {
+        "A": "I haven’t experienced it much",
+        "B": "It’s too noisy for me",
+        "C": "But it&#x27;s always good to be cautious",
+        "D": "I prefer staying at home"
+      },
+      "answer": "C",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Câu đáp “But it's always good to be cautious” phù hợp với lời thoại trước/sau, tạo thành một cuộc hội thoại có nghĩa."
+    },
+    {
+      "number": 14,
+      "type": "Giao tiếp",
+      "question": "Ann: \"I enjoy spending time in the city parks.\" - Alex: \"_______They're a nice escape from the hustle and bustle.\"",
+      "question_html": "Ann: &quot;I enjoy spending time in the city parks.&quot; - Alex: &quot;_______They&#x27;re a nice escape from the hustle and bustle.&quot;",
+      "options": {
+        "A": "No problem",
+        "B": "It’s on the wall",
+        "C": "I’m glad you like it",
+        "D": "Me too!"
+      },
+      "options_html": {
+        "A": "No problem",
+        "B": "It’s on the wall",
+        "C": "I’m glad you like it",
+        "D": "Me too!"
+      },
+      "answer": "D",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Câu đáp “Me too!” phù hợp với lời thoại trước/sau, tạo thành một cuộc hội thoại có nghĩa."
+    },
+    {
+      "number": 15,
+      "type": "Giao tiếp",
+      "question": "Ann: \"Any good restaurant suggestions?\" - Alex: \"Definitely! ________.\"",
+      "question_html": "Ann: &quot;Any good restaurant suggestions?&quot; - Alex: &quot;Definitely! ________.&quot;",
+      "options": {
+        "A": "Let's try that new sushi place.",
+        "B": "Just round the corner over there.",
+        "C": "Look it up in a dictionary!",
+        "D": "There’s no traffic near here."
+      },
+      "options_html": {
+        "A": "Let&#x27;s try that new sushi place.",
+        "B": "Just round the corner over there.",
+        "C": "Look it up in a dictionary!",
+        "D": "There’s no traffic near here."
+      },
+      "answer": "A",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Câu đáp “Let's try that new sushi place.” phù hợp với lời thoại trước/sau, tạo thành một cuộc hội thoại có nghĩa."
+    }
+  ],
+  "parsing_warnings": []
+}

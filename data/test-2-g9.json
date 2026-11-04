@@ -1,0 +1,757 @@
+{
+  "test_name": "TEST 2 _ G9",
+  "question_count": 30,
+  "questions": [
+    {
+      "number": 1,
+      "type": "Phát âm",
+      "question": "Choose the word with a different underlined sound.",
+      "question_html": "Choose the word with a different underlined sound.",
+      "options": {
+        "A": "pottery",
+        "B": "opinion",
+        "C": "communicate",
+        "D": "behavior"
+      },
+      "options_html": {
+        "A": "p<u>o</u>ttery",
+        "B": "<u>o</u>pinion",
+        "C": "c<u>o</u>mmunicate",
+        "D": "behavi<u>o</u>r"
+      },
+      "answer": "A",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Từ “pottery” có cách phát âm phần gạch chân khác ba từ còn lại. Hãy so sánh âm của phần o ở cả bốn từ."
+    },
+    {
+      "number": 2,
+      "type": "Phát âm",
+      "question": "Choose the word with a different underlined sound.",
+      "question_html": "Choose the word with a different underlined sound.",
+      "options": {
+        "A": "conflict",
+        "B": "itchy",
+        "C": "reliable",
+        "D": "determine"
+      },
+      "options_html": {
+        "A": "confl<u>i</u>ct",
+        "B": "<u>i</u>tchy",
+        "C": "rel<u>i</u>able",
+        "D": "determ<u>i</u>ne"
+      },
+      "answer": "C",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Từ “reliable” có cách phát âm phần gạch chân khác ba từ còn lại. Hãy so sánh âm của phần i ở cả bốn từ."
+    },
+    {
+      "number": 3,
+      "type": "Phát âm",
+      "question": "Choose the word with a different underlined sound.",
+      "question_html": "Choose the word with a different underlined sound.",
+      "options": {
+        "A": "carry",
+        "B": "garbage",
+        "C": "paragraph",
+        "D": "attraction"
+      },
+      "options_html": {
+        "A": "c<u>a</u>rry",
+        "B": "garb<u>a</u>ge",
+        "C": "p<u>a</u>ragraph",
+        "D": "attr<u>a</u>ction"
+      },
+      "answer": "B",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Từ “garbage” có cách phát âm phần gạch chân khác ba từ còn lại. Hãy so sánh âm của phần a ở cả bốn từ."
+    },
+    {
+      "number": 4,
+      "type": "Trọng âm",
+      "question": "Choose the word with different primary stress.",
+      "question_html": "Choose the word with different primary stress.",
+      "options": {
+        "A": "delivery",
+        "B": "original",
+        "C": "facility",
+        "D": "information"
+      },
+      "options_html": {
+        "A": "delivery",
+        "B": "original",
+        "C": "facility",
+        "D": "information"
+      },
+      "answer": "D",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "“information” có vị trí trọng âm chính khác ba từ còn lại. Cần đọc và xác định âm tiết được nhấn trong từng từ."
+    },
+    {
+      "number": 5,
+      "type": "Trọng âm",
+      "question": "Choose the word with different primary stress.",
+      "question_html": "Choose the word with different primary stress.",
+      "options": {
+        "A": "populous",
+        "B": "determine",
+        "C": "forbidden",
+        "D": "delicious"
+      },
+      "options_html": {
+        "A": "populous",
+        "B": "determine",
+        "C": "forbidden",
+        "D": "delicious"
+      },
+      "answer": "A",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "“populous” có vị trí trọng âm chính khác ba từ còn lại. Cần đọc và xác định âm tiết được nhấn trong từng từ."
+    },
+    {
+      "number": 6,
+      "type": "Trọng âm",
+      "question": "Choose the word with different primary stress.",
+      "question_html": "Choose the word with different primary stress.",
+      "options": {
+        "A": "disappoint",
+        "B": "badminton",
+        "C": "confident",
+        "D": "medical"
+      },
+      "options_html": {
+        "A": "disappoint",
+        "B": "badminton",
+        "C": "confident",
+        "D": "medical"
+      },
+      "answer": "A",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "“disappoint” có vị trí trọng âm chính khác ba từ còn lại. Cần đọc và xác định âm tiết được nhấn trong từng từ."
+    },
+    {
+      "number": 7,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "The construction ______ next door has been noisy all week.",
+      "question_html": "The construction ______ next door has been noisy all week.",
+      "options": {
+        "A": "metro",
+        "B": "tram",
+        "C": "underground",
+        "D": "site"
+      },
+      "options_html": {
+        "A": "metro",
+        "B": "tram",
+        "C": "underground",
+        "D": "site"
+      },
+      "answer": "D",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “site”. construction site = công trường xây dựng."
+    },
+    {
+      "number": 8,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "The theater in the ______ area hosts fantastic performances.",
+      "question_html": "The theater in the ______ area hosts fantastic performances.",
+      "options": {
+        "A": "downtown",
+        "B": "hygiene",
+        "C": "rural",
+        "D": "underground"
+      },
+      "options_html": {
+        "A": "downtown",
+        "B": "hygiene",
+        "C": "rural",
+        "D": "underground"
+      },
+      "answer": "A",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “downtown”. downtown = khu trung tâm thành phố."
+    },
+    {
+      "number": 9,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "The new ______ features a cinema, bowling alley, and arcade.",
+      "question_html": "The new ______ features a cinema, bowling alley, and arcade.",
+      "options": {
+        "A": "traffic jam",
+        "B": "entertainment centre",
+        "C": "concrete jungle",
+        "D": "construction site"
+      },
+      "options_html": {
+        "A": "traffic jam",
+        "B": "entertainment centre",
+        "C": "concrete jungle",
+        "D": "construction site"
+      },
+      "answer": "B",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “entertainment centre”. entertainment centre = trung tâm giải trí."
+    },
+    {
+      "number": 10,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "It's easy to ______ the city using public transportation.",
+      "question_html": "It&#x27;s easy to ______ the city using public transportation.",
+      "options": {
+        "A": "carry out",
+        "B": "find out",
+        "C": "get around",
+        "D": "come back"
+      },
+      "options_html": {
+        "A": "carry out",
+        "B": "find out",
+        "C": "get around",
+        "D": "come back"
+      },
+      "answer": "C",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Đáp án “get around”. get around: đi lại, di chuyển quanh."
+    },
+    {
+      "number": 11,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "Good ______ practices are essential to prevent the spread of diseases.",
+      "question_html": "Good ______ practices are essential to prevent the spread of diseases.",
+      "options": {
+        "A": "construction",
+        "B": "hygiene",
+        "C": "leftover",
+        "D": "Downtown"
+      },
+      "options_html": {
+        "A": "construction",
+        "B": "hygiene",
+        "C": "leftover",
+        "D": "Downtown"
+      },
+      "answer": "B",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “hygiene”. hygiene = vệ sinh, nhất là vệ sinh phòng bệnh."
+    },
+    {
+      "number": 12,
+      "type": "Đồng nghĩa",
+      "question": "New York city was founded by the Dutch in 1624.",
+      "question_html": "New York city was <u>founded</u> by the Dutch in 1624.",
+      "options": {
+        "A": "demolished",
+        "B": "destroyed",
+        "C": "established",
+        "D": "pointed"
+      },
+      "options_html": {
+        "A": "demolished",
+        "B": "destroyed",
+        "C": "established",
+        "D": "pointed"
+      },
+      "answer": "C",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "“founded” gần nghĩa nhất với “established”. Xét nghĩa của từ/cụm từ trong ngữ cảnh câu, không chỉ dịch riêng lẻ."
+    },
+    {
+      "number": 13,
+      "type": "Đồng nghĩa",
+      "question": "More and more city dwellers suffer from coughing or breathing problems.",
+      "question_html": "More and more city <u>dwellers</u> suffer from coughing or breathing problems.",
+      "options": {
+        "A": "residents",
+        "B": "roads",
+        "C": "pollution",
+        "D": "traffics"
+      },
+      "options_html": {
+        "A": "residents",
+        "B": "roads",
+        "C": "pollution",
+        "D": "traffics"
+      },
+      "answer": "A",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "“dwellers” gần nghĩa nhất với “residents”. Xét nghĩa của từ/cụm từ trong ngữ cảnh câu, không chỉ dịch riêng lẻ."
+    },
+    {
+      "number": 14,
+      "type": "Đồng nghĩa",
+      "question": "At weekends the city centre is always packed with people.",
+      "question_html": "At weekends the city centre is always <u>packed</u> with people.",
+      "options": {
+        "A": "empty",
+        "B": "crowded",
+        "C": "peaceful",
+        "D": "convenient"
+      },
+      "options_html": {
+        "A": "empty",
+        "B": "crowded",
+        "C": "peaceful",
+        "D": "convenient"
+      },
+      "answer": "B",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "“packed” gần nghĩa nhất với “crowded”. Xét nghĩa của từ/cụm từ trong ngữ cảnh câu, không chỉ dịch riêng lẻ."
+    },
+    {
+      "number": 15,
+      "type": "Đồng nghĩa",
+      "question": "Public transportation in the city is generally reliable, with frequent buses and trains.",
+      "question_html": "Public transportation in the city is generally <u>reliable</u>, with frequent buses and trains.",
+      "options": {
+        "A": "unsteady",
+        "B": "broken",
+        "C": "delayed",
+        "D": "trustworthy"
+      },
+      "options_html": {
+        "A": "unsteady",
+        "B": "broken",
+        "C": "delayed",
+        "D": "trustworthy"
+      },
+      "answer": "D",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "“reliable” gần nghĩa nhất với “trustworthy”. Xét nghĩa của từ/cụm từ trong ngữ cảnh câu, không chỉ dịch riêng lẻ."
+    },
+    {
+      "number": 16,
+      "type": "Đồng nghĩa",
+      "question": "The city skyline, with its tall buildings and shimmering lights, is undeniably attractive.",
+      "question_html": "The city skyline, with its tall buildings and shimmering lights, is undeniably <u>attractive</u>.",
+      "options": {
+        "A": "appealing",
+        "B": "boring",
+        "C": "ugly",
+        "D": "unattractive"
+      },
+      "options_html": {
+        "A": "appealing",
+        "B": "boring",
+        "C": "ugly",
+        "D": "unattractive"
+      },
+      "answer": "A",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "“attractive” gần nghĩa nhất với “appealing”. Xét nghĩa của từ/cụm từ trong ngữ cảnh câu, không chỉ dịch riêng lẻ."
+    },
+    {
+      "number": 17,
+      "type": "Trái nghĩa",
+      "question": "There is far too much pollution nowadays in urban areas.",
+      "question_html": "There is far too much pollution nowadays in <u>urban</u> areas.",
+      "options": {
+        "A": "local",
+        "B": "rural",
+        "C": "nation",
+        "D": "neighbour"
+      },
+      "options_html": {
+        "A": "local",
+        "B": "rural",
+        "C": "nation",
+        "D": "neighbour"
+      },
+      "answer": "B",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "“rural” mang nghĩa đối lập với “urban” trong câu. Đây là câu hỏi tìm từ trái nghĩa."
+    },
+    {
+      "number": 18,
+      "type": "Trái nghĩa",
+      "question": "Unfortunately, some neighborhoods in the city can be dangerous due to high crime rates.",
+      "question_html": "Unfortunately, some neighborhoods in the city can be <u>dangerous</u> due to high crime rates.",
+      "options": {
+        "A": "dull",
+        "B": "special",
+        "C": "safe",
+        "D": "unsafe"
+      },
+      "options_html": {
+        "A": "dull",
+        "B": "special",
+        "C": "safe",
+        "D": "unsafe"
+      },
+      "answer": "C",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "“safe” mang nghĩa đối lập với “dangerous” trong câu. Đây là câu hỏi tìm từ trái nghĩa."
+    },
+    {
+      "number": 19,
+      "type": "Trái nghĩa",
+      "question": "Living in the city has a number of drawbacks.",
+      "question_html": "Living in the city has a number of <u>drawbacks</u>.",
+      "options": {
+        "A": "negatives",
+        "B": "advantages",
+        "C": "disadvantages",
+        "D": "problems"
+      },
+      "options_html": {
+        "A": "negatives",
+        "B": "advantages",
+        "C": "disadvantages",
+        "D": "problems"
+      },
+      "answer": "B",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "“advantages” mang nghĩa đối lập với “drawbacks” trong câu. Đây là câu hỏi tìm từ trái nghĩa."
+    },
+    {
+      "number": 20,
+      "type": "Trái nghĩa",
+      "question": "The new road is very wide, which helps to reduce congestion and improve the flow of vehicles.",
+      "question_html": "The new road is very <u>wide</u>, which helps to reduce congestion and improve the flow of vehicles.",
+      "options": {
+        "A": "narrow",
+        "B": "broad",
+        "C": "large",
+        "D": "vast"
+      },
+      "options_html": {
+        "A": "narrow",
+        "B": "broad",
+        "C": "large",
+        "D": "vast"
+      },
+      "answer": "A",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "“narrow” mang nghĩa đối lập với “wide” trong câu. Đây là câu hỏi tìm từ trái nghĩa."
+    },
+    {
+      "number": 21,
+      "type": "Trái nghĩa",
+      "question": "Living in the city can be pricey; rent, dining out, and entertainment all come at a premium.",
+      "question_html": "Living in the city can be <u>pricey</u>; rent, dining out, and entertainment all come at a premium.",
+      "options": {
+        "A": "cheap",
+        "B": "expensive",
+        "C": "costly",
+        "D": "dear"
+      },
+      "options_html": {
+        "A": "cheap",
+        "B": "expensive",
+        "C": "costly",
+        "D": "dear"
+      },
+      "answer": "A",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "“cheap” mang nghĩa đối lập với “pricey” trong câu. Đây là câu hỏi tìm từ trái nghĩa."
+    },
+    {
+      "number": 22,
+      "type": "Biển báo",
+      "question": "What does this sign mean?",
+      "question_html": "What does this sign mean?",
+      "options": {
+        "A": "Keep your distance.",
+        "B": "Do not enter.",
+        "C": "Beware of opening door.",
+        "D": "Prepare to sto"
+      },
+      "options_html": {
+        "A": "Keep your distance.",
+        "B": "Do not enter.",
+        "C": "Beware of opening door.",
+        "D": "Prepare to sto"
+      },
+      "answer": "C",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "data/assets/test2_sign_1.png",
+      "note": "",
+      "explanation": "Biển báo trong ảnh thể hiện: “Beware of opening door.”. Quan sát biểu tượng và các chữ trên biển để xác định yêu cầu/cảnh báo."
+    },
+    {
+      "number": 23,
+      "type": "Biển báo",
+      "question": "What does this sign mean?",
+      "question_html": "What does this sign mean?",
+      "options": {
+        "A": "Anybody can park here.",
+        "B": "You can park here if you are not visitors.",
+        "C": "Only the visitor living in this country can park here.",
+        "D": "Parking in this space for visitor only"
+      },
+      "options_html": {
+        "A": "Anybody can park here.",
+        "B": "You can park here if you are not visitors.",
+        "C": "Only the visitor living in this country can park here.",
+        "D": "Parking in this space for visitor only"
+      },
+      "answer": "D",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "data/assets/test2_sign_2.png",
+      "note": "",
+      "explanation": "Biển báo trong ảnh thể hiện: “Parking in this space for visitor only”. Quan sát biểu tượng và các chữ trên biển để xác định yêu cầu/cảnh báo."
+    },
+    {
+      "number": 24,
+      "type": "Biển báo",
+      "question": "What does this sign mean?",
+      "question_html": "What does this sign mean?",
+      "options": {
+        "A": "Using mobile phones is allowed when pumping gas.",
+        "B": "Using mobile phones is prohibited when pumping gas.",
+        "C": "You can make a phone call when pumping gas.",
+        "D": "Using mobile phone isn’t dangerous when pumping gas."
+      },
+      "options_html": {
+        "A": "Using mobile phones is allowed when pumping gas.",
+        "B": "Using mobile phones is prohibited when pumping gas.",
+        "C": "You can make a phone call when pumping gas.",
+        "D": "Using mobile phone isn’t dangerous when pumping gas."
+      },
+      "answer": "B",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "data/assets/test2_sign_3.png",
+      "note": "",
+      "explanation": "Biển báo trong ảnh thể hiện: “Using mobile phones is prohibited when pumping gas.”. Quan sát biểu tượng và các chữ trên biển để xác định yêu cầu/cảnh báo."
+    },
+    {
+      "number": 25,
+      "type": "Biển báo",
+      "question": "What does this sign mean?",
+      "question_html": "What does this sign mean?",
+      "options": {
+        "A": "You must wear masks.",
+        "C": "You can’t wear masks.",
+        "B": "You can wear masks.",
+        "D": "You want to wear masks."
+      },
+      "options_html": {
+        "A": "You must wear masks.",
+        "C": "You can’t wear masks.",
+        "B": "You can wear masks.",
+        "D": "You want to wear masks."
+      },
+      "answer": "A",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "data/assets/test2_sign_4.png",
+      "note": "",
+      "explanation": "Biển báo trong ảnh thể hiện: “You must wear masks.”. Quan sát biểu tượng và các chữ trên biển để xác định yêu cầu/cảnh báo."
+    },
+    {
+      "number": 26,
+      "type": "Đọc điền từ",
+      "question": "Choose the correct word for blank (1).",
+      "question_html": "Choose the correct word for blank (1).",
+      "options": {
+        "A": "amount",
+        "B": "number",
+        "C": "sum",
+        "D": "group"
+      },
+      "options_html": {
+        "A": "amount",
+        "B": "number",
+        "C": "sum",
+        "D": "group"
+      },
+      "answer": "B",
+      "passage": "It is reported that there is a rising (1) _____ of people living in urban areas. Big cities provide both a significant amount of (2) ______ and higher average salaries. With so many companies and factories, it is easy for city dwellers to find work. Statistics from New York City show that people here have ten times more job opportunities than those (3) _____ the neighboring suburbs and smaller towns. Additionally, greater earnings are also another reason why workers are attracted to large cities. High-skilled workers tend to concentrate in urban centers because they can (4) _____ valuable experiences that are not available in other places. This skilled workforce is, of course, hunted by companies which are often willing (5) _____ higher wages.",
+      "passage_html": "It is reported that there is a rising (1) _____ of people living in urban areas. Big cities provide both a significant amount of (2) ______ and higher average salaries. With so many companies and factories, it is easy for city dwellers to find work. Statistics from New York City show that people here have ten times more job opportunities than those (3) _____ the neighboring suburbs and smaller towns. Additionally, greater earnings are also another reason why workers are attracted to large cities. High-skilled workers tend to concentrate in urban centers because they can (4) _____ valuable experiences that are not available in other places. This skilled workforce is, of course, hunted by companies which are often willing (5) _____ higher wages.",
+      "blank": 1,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “number”. a rising number of people = số người ngày càng tăng."
+    },
+    {
+      "number": 27,
+      "type": "Đọc điền từ",
+      "question": "Choose the correct word for blank (2).",
+      "question_html": "Choose the correct word for blank (2).",
+      "options": {
+        "A": "employ",
+        "B": "employed",
+        "C": "unemployment",
+        "D": "employment"
+      },
+      "options_html": {
+        "A": "employ",
+        "B": "employed",
+        "C": "unemployment",
+        "D": "employment"
+      },
+      "answer": "D",
+      "passage": "It is reported that there is a rising (1) _____ of people living in urban areas. Big cities provide both a significant amount of (2) ______ and higher average salaries. With so many companies and factories, it is easy for city dwellers to find work. Statistics from New York City show that people here have ten times more job opportunities than those (3) _____ the neighboring suburbs and smaller towns. Additionally, greater earnings are also another reason why workers are attracted to large cities. High-skilled workers tend to concentrate in urban centers because they can (4) _____ valuable experiences that are not available in other places. This skilled workforce is, of course, hunted by companies which are often willing (5) _____ higher wages.",
+      "passage_html": "It is reported that there is a rising (1) _____ of people living in urban areas. Big cities provide both a significant amount of (2) ______ and higher average salaries. With so many companies and factories, it is easy for city dwellers to find work. Statistics from New York City show that people here have ten times more job opportunities than those (3) _____ the neighboring suburbs and smaller towns. Additionally, greater earnings are also another reason why workers are attracted to large cities. High-skilled workers tend to concentrate in urban centers because they can (4) _____ valuable experiences that are not available in other places. This skilled workforce is, of course, hunted by companies which are often willing (5) _____ higher wages.",
+      "blank": 2,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “employment”. employment = việc làm; sau amount of cần danh từ."
+    },
+    {
+      "number": 28,
+      "type": "Đọc điền từ",
+      "question": "Choose the correct word for blank (3).",
+      "question_html": "Choose the correct word for blank (3).",
+      "options": {
+        "A": "in",
+        "B": "on",
+        "C": "at",
+        "D": "by"
+      },
+      "options_html": {
+        "A": "in",
+        "B": "on",
+        "C": "at",
+        "D": "by"
+      },
+      "answer": "A",
+      "passage": "It is reported that there is a rising (1) _____ of people living in urban areas. Big cities provide both a significant amount of (2) ______ and higher average salaries. With so many companies and factories, it is easy for city dwellers to find work. Statistics from New York City show that people here have ten times more job opportunities than those (3) _____ the neighboring suburbs and smaller towns. Additionally, greater earnings are also another reason why workers are attracted to large cities. High-skilled workers tend to concentrate in urban centers because they can (4) _____ valuable experiences that are not available in other places. This skilled workforce is, of course, hunted by companies which are often willing (5) _____ higher wages.",
+      "passage_html": "It is reported that there is a rising (1) _____ of people living in urban areas. Big cities provide both a significant amount of (2) ______ and higher average salaries. With so many companies and factories, it is easy for city dwellers to find work. Statistics from New York City show that people here have ten times more job opportunities than those (3) _____ the neighboring suburbs and smaller towns. Additionally, greater earnings are also another reason why workers are attracted to large cities. High-skilled workers tend to concentrate in urban centers because they can (4) _____ valuable experiences that are not available in other places. This skilled workforce is, of course, hunted by companies which are often willing (5) _____ higher wages.",
+      "blank": 3,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “in”. in the suburbs = ở vùng ngoại ô."
+    },
+    {
+      "number": 29,
+      "type": "Đọc điền từ",
+      "question": "Choose the correct word for blank (4).",
+      "question_html": "Choose the correct word for blank (4).",
+      "options": {
+        "A": "achieve",
+        "B": "make",
+        "C": "take",
+        "D": "gain"
+      },
+      "options_html": {
+        "A": "achieve",
+        "B": "make",
+        "C": "take",
+        "D": "gain"
+      },
+      "answer": "D",
+      "passage": "It is reported that there is a rising (1) _____ of people living in urban areas. Big cities provide both a significant amount of (2) ______ and higher average salaries. With so many companies and factories, it is easy for city dwellers to find work. Statistics from New York City show that people here have ten times more job opportunities than those (3) _____ the neighboring suburbs and smaller towns. Additionally, greater earnings are also another reason why workers are attracted to large cities. High-skilled workers tend to concentrate in urban centers because they can (4) _____ valuable experiences that are not available in other places. This skilled workforce is, of course, hunted by companies which are often willing (5) _____ higher wages.",
+      "passage_html": "It is reported that there is a rising (1) _____ of people living in urban areas. Big cities provide both a significant amount of (2) ______ and higher average salaries. With so many companies and factories, it is easy for city dwellers to find work. Statistics from New York City show that people here have ten times more job opportunities than those (3) _____ the neighboring suburbs and smaller towns. Additionally, greater earnings are also another reason why workers are attracted to large cities. High-skilled workers tend to concentrate in urban centers because they can (4) _____ valuable experiences that are not available in other places. This skilled workforce is, of course, hunted by companies which are often willing (5) _____ higher wages.",
+      "blank": 4,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “gain”. gain experience = tích lũy kinh nghiệm."
+    },
+    {
+      "number": 30,
+      "type": "Đọc điền từ",
+      "question": "Choose the correct word for blank (5).",
+      "question_html": "Choose the correct word for blank (5).",
+      "options": {
+        "A": "to pay",
+        "B": "pay",
+        "C": "paying",
+        "D": "to be paid"
+      },
+      "options_html": {
+        "A": "to pay",
+        "B": "pay",
+        "C": "paying",
+        "D": "to be paid"
+      },
+      "answer": "A",
+      "passage": "It is reported that there is a rising (1) _____ of people living in urban areas. Big cities provide both a significant amount of (2) ______ and higher average salaries. With so many companies and factories, it is easy for city dwellers to find work. Statistics from New York City show that people here have ten times more job opportunities than those (3) _____ the neighboring suburbs and smaller towns. Additionally, greater earnings are also another reason why workers are attracted to large cities. High-skilled workers tend to concentrate in urban centers because they can (4) _____ valuable experiences that are not available in other places. This skilled workforce is, of course, hunted by companies which are often willing (5) _____ higher wages.",
+      "passage_html": "It is reported that there is a rising (1) _____ of people living in urban areas. Big cities provide both a significant amount of (2) ______ and higher average salaries. With so many companies and factories, it is easy for city dwellers to find work. Statistics from New York City show that people here have ten times more job opportunities than those (3) _____ the neighboring suburbs and smaller towns. Additionally, greater earnings are also another reason why workers are attracted to large cities. High-skilled workers tend to concentrate in urban centers because they can (4) _____ valuable experiences that are not available in other places. This skilled workforce is, of course, hunted by companies which are often willing (5) _____ higher wages.",
+      "blank": 5,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “to pay”. be willing to + V = sẵn lòng làm gì."
+    }
+  ],
+  "parsing_warnings": []
+}

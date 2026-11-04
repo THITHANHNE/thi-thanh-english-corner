@@ -1,0 +1,882 @@
+{
+  "test_name": "TEST 4 _ G9",
+  "question_count": 35,
+  "questions": [
+    {
+      "number": 1,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "My allergies cause ______ during springtime.",
+      "question_html": "My allergies cause ______ during springtime.",
+      "options": {
+        "A": "road dust",
+        "B": "underground system",
+        "C": "congested road",
+        "D": "itchy eyes"
+      },
+      "options_html": {
+        "A": "road dust",
+        "B": "underground system",
+        "C": "congested road",
+        "D": "itchy eyes"
+      },
+      "answer": "D",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “itchy eyes”. Từ/cụm từ này phù hợp nghĩa và cấu trúc của câu; cần xét cả ngữ cảnh trước và sau chỗ trống."
+    },
+    {
+      "number": 2,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "______ is a common issue in large cities.",
+      "question_html": "______ is a common issue in large cities.",
+      "options": {
+        "A": "Traffic light",
+        "B": "Traffic flow",
+        "C": "Traffic safety",
+        "D": "Traffic congestion"
+      },
+      "options_html": {
+        "A": "Traffic light",
+        "B": "Traffic flow",
+        "C": "Traffic safety",
+        "D": "Traffic congestion"
+      },
+      "answer": "D",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “Traffic congestion”. traffic congestion = tình trạng tắc nghẽn giao thông."
+    },
+    {
+      "number": 3,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "The ______ streets of downtown are filled with people rushing to work.",
+      "question_html": "The ______ streets of downtown are filled with people rushing to work.",
+      "options": {
+        "A": "bustling",
+        "B": "special",
+        "C": "empty",
+        "D": "quiet"
+      },
+      "options_html": {
+        "A": "bustling",
+        "B": "special",
+        "C": "empty",
+        "D": "quiet"
+      },
+      "answer": "A",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “bustling”. bustling = nhộn nhịp, đông đúc."
+    },
+    {
+      "number": 4,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "To save money, I try to ______ unnecessary expenses.",
+      "question_html": "To save money, I try to ______ unnecessary expenses.",
+      "options": {
+        "A": "come down with",
+        "B": "cut down on",
+        "C": "hang out with",
+        "D": "get on with"
+      },
+      "options_html": {
+        "A": "come down with",
+        "B": "cut down on",
+        "C": "hang out with",
+        "D": "get on with"
+      },
+      "answer": "B",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Đáp án “cut down on”. cut down on + N: cắt giảm."
+    },
+    {
+      "number": 5,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "The old library was quite ______, but they recently renovated it.",
+      "question_html": "The old library was quite ______, but they recently renovated it.",
+      "options": {
+        "A": "pricey",
+        "B": "reliable",
+        "C": "dusty",
+        "D": "quiet"
+      },
+      "options_html": {
+        "A": "pricey",
+        "B": "reliable",
+        "C": "dusty",
+        "D": "quiet"
+      },
+      "answer": "C",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “dusty”. dusty = đầy bụi."
+    },
+    {
+      "number": 6,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "Eating out in this city can be quite ______, especially at fancy restaurants.",
+      "question_html": "Eating out in this city can be quite ______, especially at fancy restaurants.",
+      "options": {
+        "A": "affordable",
+        "B": "pricey",
+        "C": "interesting",
+        "D": "reasonable"
+      },
+      "options_html": {
+        "A": "affordable",
+        "B": "pricey",
+        "C": "interesting",
+        "D": "reasonable"
+      },
+      "answer": "B",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “pricey”. pricey = đắt đỏ."
+    },
+    {
+      "number": 7,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "I ______ a fever last night.",
+      "question_html": "I ______ a fever last night.",
+      "options": {
+        "A": "came down with",
+        "B": "cut down on",
+        "C": "got on with",
+        "D": "ran out of"
+      },
+      "options_html": {
+        "A": "came down with",
+        "B": "cut down on",
+        "C": "got on with",
+        "D": "ran out of"
+      },
+      "answer": "A",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Đáp án “came down with”. come down with + bệnh: mắc phải bệnh."
+    },
+    {
+      "number": 8,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "The city government aims to ______ environmental initiatives.",
+      "question_html": "The city government aims to ______ environmental initiatives.",
+      "options": {
+        "A": "get around",
+        "B": "hand down",
+        "C": "carry out",
+        "D": "give up"
+      },
+      "options_html": {
+        "A": "get around",
+        "B": "hand down",
+        "C": "carry out",
+        "D": "give up"
+      },
+      "answer": "C",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Đáp án “carry out”. carry out: thực hiện, tiến hành."
+    },
+    {
+      "number": 9,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "Let's ______ at the local café this weekend!",
+      "question_html": "Let&#x27;s ______ at the local café this weekend!",
+      "options": {
+        "A": "get on with",
+        "B": "hang out",
+        "C": "come down",
+        "D": "cut down on"
+      },
+      "options_html": {
+        "A": "get on with",
+        "B": "hang out",
+        "C": "come down",
+        "D": "cut down on"
+      },
+      "answer": "B",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Đáp án “hang out”. hang out: gặp gỡ, đi chơi."
+    },
+    {
+      "number": 10,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "The city offers a ______ lifestyle with everything within reach.",
+      "question_html": "The city offers a ______ lifestyle with everything within reach.",
+      "options": {
+        "A": "crowded",
+        "B": "noisy",
+        "C": "boring",
+        "D": "convenient"
+      },
+      "options_html": {
+        "A": "crowded",
+        "B": "noisy",
+        "C": "boring",
+        "D": "convenient"
+      },
+      "answer": "D",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “convenient”. convenient = thuận tiện."
+    },
+    {
+      "number": 11,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "Unfortunately, I ______ a cold last week.",
+      "question_html": "Unfortunately, I ______ a cold last week.",
+      "options": {
+        "A": "handed down",
+        "B": "came down with",
+        "C": "ran out of",
+        "D": "gave up"
+      },
+      "options_html": {
+        "A": "handed down",
+        "B": "came down with",
+        "C": "ran out of",
+        "D": "gave up"
+      },
+      "answer": "B",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Đáp án “came down with”. come down with + bệnh: mắc phải bệnh."
+    },
+    {
+      "number": 12,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "During ______ hour, the subway is always packed with commuters.",
+      "question_html": "During ______ hour, the subway is always packed with commuters.",
+      "options": {
+        "A": "rush",
+        "B": "low",
+        "C": "crowded",
+        "D": "liveable"
+      },
+      "options_html": {
+        "A": "rush",
+        "B": "low",
+        "C": "crowded",
+        "D": "liveable"
+      },
+      "answer": "A",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Đáp án “rush”. rush hour: giờ cao điểm."
+    },
+    {
+      "number": 13,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "New York City is often referred to as a ______ due to its tall buildings and busy streets.",
+      "question_html": "New York City is often referred to as a ______ due to its tall buildings and busy streets.",
+      "options": {
+        "A": "public amenity",
+        "B": "entertainment center",
+        "C": "concrete jungle",
+        "D": "construction site"
+      },
+      "options_html": {
+        "A": "public amenity",
+        "B": "entertainment center",
+        "C": "concrete jungle",
+        "D": "construction site"
+      },
+      "answer": "C",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “concrete jungle”. concrete jungle = đô thị dày đặc các tòa nhà."
+    },
+    {
+      "number": 14,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "The city park feels like an oasis of ______ green space.",
+      "question_html": "The city park feels like an oasis of ______ green space.",
+      "options": {
+        "A": "noisy",
+        "B": "careful",
+        "C": "safe",
+        "D": "dangerous"
+      },
+      "options_html": {
+        "A": "noisy",
+        "B": "careful",
+        "C": "safe",
+        "D": "dangerous"
+      },
+      "answer": "C",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “safe”. safe = an toàn."
+    },
+    {
+      "number": 15,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "The cityscape is a mix of historic and ______ architecture.",
+      "question_html": "The cityscape is a mix of historic and ______ architecture.",
+      "options": {
+        "A": "crowded",
+        "B": "modern",
+        "C": "boring",
+        "D": "noisy"
+      },
+      "options_html": {
+        "A": "crowded",
+        "B": "modern",
+        "C": "boring",
+        "D": "noisy"
+      },
+      "answer": "B",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “modern”. Từ/cụm từ này phù hợp nghĩa và cấu trúc của câu; cần xét cả ngữ cảnh trước và sau chỗ trống."
+    },
+    {
+      "number": 16,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "I need to ______ sugary snacks for better health.",
+      "question_html": "I need to ______ sugary snacks for better health.",
+      "options": {
+        "A": "run out of",
+        "B": "cut down on",
+        "C": "get on with",
+        "D": "take care of"
+      },
+      "options_html": {
+        "A": "run out of",
+        "B": "cut down on",
+        "C": "get on with",
+        "D": "take care of"
+      },
+      "answer": "B",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Đáp án “cut down on”. cut down on + N: cắt giảm."
+    },
+    {
+      "number": 17,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "The city streets are often ______ during rush hour.",
+      "question_html": "The city streets are often ______ during rush hour.",
+      "options": {
+        "A": "itchy",
+        "B": "open",
+        "C": "congested",
+        "D": "pricey"
+      },
+      "options_html": {
+        "A": "itchy",
+        "B": "open",
+        "C": "congested",
+        "D": "pricey"
+      },
+      "answer": "C",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “congested”. Từ/cụm từ này phù hợp nghĩa và cấu trúc của câu; cần xét cả ngữ cảnh trước và sau chỗ trống."
+    },
+    {
+      "number": 18,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "My skin gets ______ when I'm stressed.",
+      "question_html": "My skin gets ______ when I&#x27;m stressed.",
+      "options": {
+        "A": "itchy",
+        "B": "narrow",
+        "C": "perfect",
+        "D": "clear"
+      },
+      "options_html": {
+        "A": "itchy",
+        "B": "narrow",
+        "C": "perfect",
+        "D": "clear"
+      },
+      "answer": "A",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “itchy”. itchy = ngứa."
+    },
+    {
+      "number": 19,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "Be cautious of ______ in crowded areas.",
+      "question_html": "Be cautious of ______ in crowded areas.",
+      "options": {
+        "A": "pickpocketing",
+        "B": "crime-free",
+        "C": "safety",
+        "D": "security"
+      },
+      "options_html": {
+        "A": "pickpocketing",
+        "B": "crime-free",
+        "C": "safety",
+        "D": "security"
+      },
+      "answer": "A",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “pickpocketing”. pickpocketing = hành vi móc túi."
+    },
+    {
+      "number": 20,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "Despite the noise, this neighborhood is quite ______.",
+      "question_html": "Despite the noise, this neighborhood is quite ______.",
+      "options": {
+        "A": "dangerous",
+        "B": "liveable",
+        "C": "silent",
+        "D": "careful"
+      },
+      "options_html": {
+        "A": "dangerous",
+        "B": "liveable",
+        "C": "silent",
+        "D": "careful"
+      },
+      "answer": "B",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “liveable”. liveable = đáng sống."
+    },
+    {
+      "number": 21,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "The ______ metro system is efficient for daily commuting.",
+      "question_html": "The ______ metro system is efficient for daily commuting.",
+      "options": {
+        "A": "leftover",
+        "B": "construction",
+        "C": "underground",
+        "D": "traffic jam"
+      },
+      "options_html": {
+        "A": "leftover",
+        "B": "construction",
+        "C": "underground",
+        "D": "traffic jam"
+      },
+      "answer": "C",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “underground”. underground metro = tàu điện ngầm."
+    },
+    {
+      "number": 22,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "Many families prefer to live in the quieter ______.",
+      "question_html": "Many families prefer to live in the quieter ______.",
+      "options": {
+        "A": "suburbs",
+        "B": "centers",
+        "C": "amenities",
+        "D": "transportation"
+      },
+      "options_html": {
+        "A": "suburbs",
+        "B": "centers",
+        "C": "amenities",
+        "D": "transportation"
+      },
+      "answer": "A",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “suburbs”. suburbs = vùng ngoại ô."
+    },
+    {
+      "number": 23,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "The ______ of having shops nearby makes life easier.",
+      "question_html": "The ______ of having shops nearby makes life easier.",
+      "options": {
+        "A": "inconvenient",
+        "B": "difficulty",
+        "C": "convenience",
+        "D": "unreliable"
+      },
+      "options_html": {
+        "A": "inconvenient",
+        "B": "difficulty",
+        "C": "convenience",
+        "D": "unreliable"
+      },
+      "answer": "C",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “convenience”. convenience = sự thuận tiện (danh từ)."
+    },
+    {
+      "number": 24,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "To stay healthy, I try to ______ processed foods.",
+      "question_html": "To stay healthy, I try to ______ processed foods.",
+      "options": {
+        "A": "avoid",
+        "B": "transport",
+        "C": "widen",
+        "D": "complete"
+      },
+      "options_html": {
+        "A": "avoid",
+        "B": "transport",
+        "C": "widen",
+        "D": "complete"
+      },
+      "answer": "A",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “avoid”. avoid + danh từ/V-ing = tránh."
+    },
+    {
+      "number": 25,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "The city council plans to ______ infrastructure improvements.",
+      "question_html": "The city council plans to ______ infrastructure improvements.",
+      "options": {
+        "A": "hand down",
+        "B": "carry out",
+        "C": "get around",
+        "D": "look after"
+      },
+      "options_html": {
+        "A": "hand down",
+        "B": "carry out",
+        "C": "get around",
+        "D": "look after"
+      },
+      "answer": "B",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Đáp án “carry out”. carry out: thực hiện, tiến hành."
+    },
+    {
+      "number": 26,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "Make sure to cook chicken ______ to avoid food poisoning.",
+      "question_html": "Make sure to cook chicken ______ to avoid food poisoning.",
+      "options": {
+        "A": "properly",
+        "B": "shortly",
+        "C": "narrowly",
+        "D": "especially"
+      },
+      "options_html": {
+        "A": "properly",
+        "B": "shortly",
+        "C": "narrowly",
+        "D": "especially"
+      },
+      "answer": "A",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "Phương án D trong file gốc có thêm “level”; giữ nguyên theo tài liệu.",
+      "explanation": "Chọn “properly”. properly = đúng cách, kỹ lưỡng."
+    },
+    {
+      "number": 27,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "level\nThe more invaluable world heritages are to humanity, ______.",
+      "question_html": "level<br>The more invaluable world heritages are to humanity, ______.",
+      "options": {
+        "A": "the more protected and preserving they are",
+        "B": "the more they are protected and preserved",
+        "C": "the more they have people protect and preserve",
+        "D": "the more people make them protect and preserve"
+      },
+      "options_html": {
+        "A": "the more protected and preserving they are",
+        "B": "the more they are protected and preserved",
+        "C": "the more they have people protect and preserve",
+        "D": "the more people make them protect and preserve"
+      },
+      "answer": "B",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “the more they are protected and preserved” theo cấu trúc so sánh kép: The + so sánh hơn ..., the + so sánh hơn ... (càng ... càng ...)."
+    },
+    {
+      "number": 28,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "______ the temperature, ______ water turns into steam.",
+      "question_html": "______ the temperature, ______ water turns into steam.",
+      "options": {
+        "A": "Higher / faster the",
+        "B": "The higher / the faster",
+        "C": "The more higher / the faster",
+        "D": "The higher / the fast"
+      },
+      "options_html": {
+        "A": "Higher / faster the",
+        "B": "The higher / the faster",
+        "C": "The more higher / the faster",
+        "D": "The higher / the fast"
+      },
+      "answer": "B",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Đáp án “The higher / the faster”. the higher ..., the faster ...: càng cao thì càng nhanh."
+    },
+    {
+      "number": 29,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "The older you are, ______.",
+      "question_html": "The older you are, ______.",
+      "options": {
+        "A": "the more you may become worried",
+        "B": "the more worried you may become",
+        "C": "the more worry you may become",
+        "D": "you may become more worried"
+      },
+      "options_html": {
+        "A": "the more you may become worried",
+        "B": "the more worried you may become",
+        "C": "the more worry you may become",
+        "D": "you may become more worried"
+      },
+      "answer": "B",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “the more worried you may become” theo cấu trúc so sánh kép: The + so sánh hơn ..., the + so sánh hơn ... (càng ... càng ...)."
+    },
+    {
+      "number": 30,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "The more challenging the exercises are, ______ we feel.",
+      "question_html": "The more challenging the exercises are, ______ we feel.",
+      "options": {
+        "A": "the less bored",
+        "B": "the least bored",
+        "C": "the less boring",
+        "D": "the least boring"
+      },
+      "options_html": {
+        "A": "the less bored",
+        "B": "the least bored",
+        "C": "the less boring",
+        "D": "the least boring"
+      },
+      "answer": "A",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “the less bored” theo cấu trúc so sánh kép: The + so sánh hơn ..., the + so sánh hơn ... (càng ... càng ...)."
+    },
+    {
+      "number": 31,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "The ______ you encounter failure, the more confident you are.",
+      "question_html": "The ______ you encounter failure, the more confident you are.",
+      "options": {
+        "A": "more frequently",
+        "B": "as frequently",
+        "C": "most frequent",
+        "D": "more frequent"
+      },
+      "options_html": {
+        "A": "more frequently",
+        "B": "as frequently",
+        "C": "most frequent",
+        "D": "more frequent"
+      },
+      "answer": "A",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “more frequently” theo cấu trúc so sánh kép: The + so sánh hơn ..., the + so sánh hơn ... (càng ... càng ...)."
+    },
+    {
+      "number": 32,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "He spent a year in India and loves spicy food. ______ the food is, ______ he likes it.",
+      "question_html": "He spent a year in India and loves spicy food. ______ the food is, ______ he likes it.",
+      "options": {
+        "A": "The hotter/the more and more",
+        "B": "The hotter/the more",
+        "C": "The more and more hot/the more",
+        "D": "The hottest/the most"
+      },
+      "options_html": {
+        "A": "The hotter/the more and more",
+        "B": "The hotter/the more",
+        "C": "The more and more hot/the more",
+        "D": "The hottest/the most"
+      },
+      "answer": "B",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “The hotter/the more”. Từ/cụm từ này phù hợp nghĩa và cấu trúc của câu; cần xét cả ngữ cảnh trước và sau chỗ trống."
+    },
+    {
+      "number": 33,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "______ he drank, ______ he became.",
+      "question_html": "______ he drank, ______ he became.",
+      "options": {
+        "A": "More/more violent",
+        "B": "The most/the most violent",
+        "C": "The more/the more violent",
+        "D": "The less/less violent"
+      },
+      "options_html": {
+        "A": "More/more violent",
+        "B": "The most/the most violent",
+        "C": "The more/the more violent",
+        "D": "The less/less violent"
+      },
+      "answer": "C",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “The more/the more violent”. Từ/cụm từ này phù hợp nghĩa và cấu trúc của câu; cần xét cả ngữ cảnh trước và sau chỗ trống."
+    },
+    {
+      "number": 34,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "Earning money has always been the thing that pleases him most. ______ he becomes, ______he is.",
+      "question_html": "Earning money has always been the thing that pleases him most. ______ he becomes, ______he is.",
+      "options": {
+        "A": "The more rich/ the more happy",
+        "B": "The richest/ the happiest",
+        "C": "The richer/ the happier",
+        "D": "Richer and richer/ happier and happier"
+      },
+      "options_html": {
+        "A": "The more rich/ the more happy",
+        "B": "The richest/ the happiest",
+        "C": "The richer/ the happier",
+        "D": "Richer and richer/ happier and happier"
+      },
+      "answer": "C",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “The richer/ the happier”. Từ/cụm từ này phù hợp nghĩa và cấu trúc của câu; cần xét cả ngữ cảnh trước và sau chỗ trống."
+    },
+    {
+      "number": 35,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "______ you study for these exams, ______ you will do.",
+      "question_html": "______ you study for these exams, ______ you will do.",
+      "options": {
+        "A": "The harder/ the better",
+        "B": "The more/ the much",
+        "C": "The hardest/ the best",
+        "D": "The more hard/ the more good"
+      },
+      "options_html": {
+        "A": "The harder/ the better",
+        "B": "The more/ the much",
+        "C": "The hardest/ the best",
+        "D": "The more hard/ the more good"
+      },
+      "answer": "A",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Đáp án “The harder/ the better”. the + comparative ..., the + comparative ...: càng ... càng ..."
+    }
+  ],
+  "parsing_warnings": []
+}

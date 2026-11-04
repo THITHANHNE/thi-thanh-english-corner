@@ -1,0 +1,66 @@
+[
+  {
+    "id": "test-1-g9",
+    "name": "TEST 1 _ G9",
+    "count": 30,
+    "file": "data/test-1-g9.json",
+    "duration": 30,
+    "kind": "mixed"
+  },
+  {
+    "id": "test-2-g9",
+    "name": "TEST 2 _ G9",
+    "count": 30,
+    "file": "data/test-2-g9.json",
+    "duration": 30,
+    "kind": "mixed"
+  },
+  {
+    "id": "test-3-g9",
+    "name": "TEST 3 _ G9",
+    "count": 30,
+    "file": "data/test-3-g9.json",
+    "duration": 30,
+    "kind": "mixed"
+  },
+  {
+    "id": "test-4-g9",
+    "name": "TEST 4 _ G9",
+    "count": 35,
+    "file": "data/test-4-g9.json",
+    "duration": 30,
+    "kind": "mixed"
+  },
+  {
+    "id": "test-5-g9",
+    "name": "TEST 5 _ G9",
+    "count": 15,
+    "file": "data/test-5-g9.json",
+    "duration": 15,
+    "kind": "mixed"
+  },
+  {
+    "id": "test-6-g9",
+    "name": "TEST 6 _ G9",
+    "count": 15,
+    "file": "data/test-6-g9.json",
+    "duration": 15,
+    "kind": "mixed"
+  },
+  {
+    "id": "test-7-g9",
+    "name": "TEST 7 _ G9",
+    "count": 15,
+    "file": "data/test-7-g9.json",
+    "duration": 15,
+    "kind": "mixed"
+  },
+  {
+    "id": "test-8-g9",
+    "name": "TEST 8 _ G9",
+    "count": 12,
+    "file": "data/test-8-g9.json",
+    "duration": 15,
+    "kind": "writing"
+  }
+]

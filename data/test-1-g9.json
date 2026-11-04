@@ -1,0 +1,757 @@
+{
+  "test_name": "TEST 1 _ G9",
+  "question_count": 30,
+  "questions": [
+    {
+      "number": 1,
+      "type": "Phát âm",
+      "question": "Choose the word with a different underlined sound.",
+      "question_html": "Choose the word with a different underlined sound.",
+      "options": {
+        "A": "artisan",
+        "B": "attraction",
+        "C": "cast",
+        "D": "craft"
+      },
+      "options_html": {
+        "A": "<u>a</u>rtisan",
+        "B": "<u>a</u>ttraction",
+        "C": "c<u>a</u>st",
+        "D": "cr<u>a</u>ft"
+      },
+      "answer": "B",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Từ “attraction” có cách phát âm phần gạch chân khác ba từ còn lại. Hãy so sánh âm của phần a ở cả bốn từ."
+    },
+    {
+      "number": 2,
+      "type": "Phát âm",
+      "question": "Choose the word with a different underlined sound.",
+      "question_html": "Choose the word with a different underlined sound.",
+      "options": {
+        "A": "serious",
+        "B": "thousand",
+        "C": "found",
+        "D": "around"
+      },
+      "options_html": {
+        "A": "seri<u>ou</u>s",
+        "B": "th<u>ou</u>sand",
+        "C": "f<u>ou</u>nd",
+        "D": "ar<u>ou</u>nd"
+      },
+      "answer": "A",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Từ “serious” có cách phát âm phần gạch chân khác ba từ còn lại. Hãy so sánh âm của phần ou ở cả bốn từ."
+    },
+    {
+      "number": 3,
+      "type": "Phát âm",
+      "question": "Choose the word with a different underlined sound.",
+      "question_html": "Choose the word with a different underlined sound.",
+      "options": {
+        "A": "physical",
+        "B": "minimise",
+        "C": "priority",
+        "D": "deadline"
+      },
+      "options_html": {
+        "A": "phys<u>i</u>cal",
+        "B": "minim<u>i</u>se",
+        "C": "pr<u>i</u>ority",
+        "D": "deadl<u>i</u>ne"
+      },
+      "answer": "A",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Từ “physical” có cách phát âm phần gạch chân khác ba từ còn lại. Hãy so sánh âm của phần i ở cả bốn từ."
+    },
+    {
+      "number": 4,
+      "type": "Trọng âm",
+      "question": "Choose the word with different primary stress.",
+      "question_html": "Choose the word with different primary stress.",
+      "options": {
+        "A": "fragrance",
+        "B": "advice",
+        "C": "suburb",
+        "D": "garbage"
+      },
+      "options_html": {
+        "A": "fragrance",
+        "B": "advice",
+        "C": "suburb",
+        "D": "garbage"
+      },
+      "answer": "B",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "“advice” có vị trí trọng âm chính khác ba từ còn lại. Cần đọc và xác định âm tiết được nhấn trong từng từ."
+    },
+    {
+      "number": 5,
+      "type": "Trọng âm",
+      "question": "Choose the word with different primary stress.",
+      "question_html": "Choose the word with different primary stress.",
+      "options": {
+        "A": "populous",
+        "B": "determine",
+        "C": "forbidden",
+        "D": "delicious"
+      },
+      "options_html": {
+        "A": "populous",
+        "B": "determine",
+        "C": "forbidden",
+        "D": "delicious"
+      },
+      "answer": "A",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "“populous” có vị trí trọng âm chính khác ba từ còn lại. Cần đọc và xác định âm tiết được nhấn trong từng từ."
+    },
+    {
+      "number": 6,
+      "type": "Trọng âm",
+      "question": "Choose the word with different primary stress.",
+      "question_html": "Choose the word with different primary stress.",
+      "options": {
+        "A": "organise",
+        "B": "physical",
+        "C": "maintaining",
+        "D": "counsellor"
+      },
+      "options_html": {
+        "A": "organise",
+        "B": "physical",
+        "C": "maintaining",
+        "D": "counsellor"
+      },
+      "answer": "C",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "“maintaining” có vị trí trọng âm chính khác ba từ còn lại. Cần đọc và xác định âm tiết được nhấn trong từng từ."
+    },
+    {
+      "number": 7,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "_______ responded quickly when there was a fire in the apartment building.",
+      "question_html": "_______ responded quickly when there was a fire in the apartment building.",
+      "options": {
+        "A": "Police officers",
+        "B": "Firefighters",
+        "C": "Garbage collectors",
+        "D": "Electricians"
+      },
+      "options_html": {
+        "A": "Police officers",
+        "B": "Firefighters",
+        "C": "Garbage collectors",
+        "D": "Electricians"
+      },
+      "answer": "B",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “Firefighters”. firefighters = lính cứu hỏa, người xử lý đám cháy."
+    },
+    {
+      "number": 8,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "Skilled artisans in our community create beautiful _______, including pottery, textiles, and wooden carvings.",
+      "question_html": "Skilled artisans in our community create beautiful _______, including pottery, textiles, and wooden carvings.",
+      "options": {
+        "A": "electricity",
+        "B": "hobbies",
+        "C": "interests",
+        "D": "handicrafts"
+      },
+      "options_html": {
+        "A": "electricity",
+        "B": "hobbies",
+        "C": "interests",
+        "D": "handicrafts"
+      },
+      "answer": "D",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “handicrafts”. handicrafts = đồ thủ công như gốm, vải dệt, đồ khắc gỗ."
+    },
+    {
+      "number": 9,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "Do you have any tips on how _______ stronger neighborhood bonds?",
+      "question_html": "Do you have any tips on how _______ stronger neighborhood bonds?",
+      "options": {
+        "A": "building",
+        "B": "to build",
+        "C": "built",
+        "D": "build"
+      },
+      "options_html": {
+        "A": "building",
+        "B": "to build",
+        "C": "built",
+        "D": "build"
+      },
+      "answer": "B",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Đáp án “to build”. how + to V: cách làm việc gì; sau “how” dùng động từ nguyên mẫu có “to”."
+    },
+    {
+      "number": 10,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "Let's discuss _______ to improve our community garden.",
+      "question_html": "Let&#x27;s discuss _______ to improve our community garden.",
+      "options": {
+        "A": "who",
+        "B": "where",
+        "C": "why",
+        "D": "how"
+      },
+      "options_html": {
+        "A": "who",
+        "B": "where",
+        "C": "why",
+        "D": "how"
+      },
+      "answer": "D",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Đáp án “how”. discuss how to V: thảo luận cách làm việc gì."
+    },
+    {
+      "number": 11,
+      "type": "Ngữ pháp – Từ vựng",
+      "question": "Do you know when _______ up for the community choir?",
+      "question_html": "Do you know when _______ up for the community choir?",
+      "options": {
+        "A": "to sign",
+        "B": "signing",
+        "C": "signed",
+        "D": "to signing"
+      },
+      "options_html": {
+        "A": "to sign",
+        "B": "signing",
+        "C": "signed",
+        "D": "to signing"
+      },
+      "answer": "A",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "Đáp án “to sign”. when + to V: khi nào làm việc gì."
+    },
+    {
+      "number": 12,
+      "type": "Đồng nghĩa",
+      "question": "The artisans in my village usually hand down their skills to their eldest children.",
+      "question_html": "The artisans in my village usually <u>hand down</u> their skills to their eldest children.",
+      "options": {
+        "A": "look round",
+        "B": "break down",
+        "C": "come back",
+        "D": "pass down"
+      },
+      "options_html": {
+        "A": "look round",
+        "B": "break down",
+        "C": "come back",
+        "D": "pass down"
+      },
+      "answer": "D",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "“hand down” gần nghĩa nhất với “pass down”. Xét nghĩa của từ/cụm từ trong ngữ cảnh câu, không chỉ dịch riêng lẻ."
+    },
+    {
+      "number": 13,
+      "type": "Đồng nghĩa",
+      "question": "Vong, a small village in Ha Noi, is well-known for its specialty food: com (young sticky rice flakes).",
+      "question_html": "Vong, a small village in Ha Noi, is <u>well-known</u> for its specialty food: com (young sticky rice flakes).",
+      "options": {
+        "A": "skillful",
+        "B": "famous",
+        "C": "original",
+        "D": "electrical"
+      },
+      "options_html": {
+        "A": "skillful",
+        "B": "famous",
+        "C": "original",
+        "D": "electrical"
+      },
+      "answer": "B",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "“well-known” gần nghĩa nhất với “famous”. Xét nghĩa của từ/cụm từ trong ngữ cảnh câu, không chỉ dịch riêng lẻ."
+    },
+    {
+      "number": 14,
+      "type": "Đồng nghĩa",
+      "question": "Care for Animals took care of thousands of homeless dogs and cats last year.",
+      "question_html": "Care for Animals <u>took care of</u> thousands of homeless dogs and cats last year.",
+      "options": {
+        "A": "picked up",
+        "B": "met up",
+        "C": "grew up",
+        "D": "looked after"
+      },
+      "options_html": {
+        "A": "picked up",
+        "B": "met up",
+        "C": "grew up",
+        "D": "looked after"
+      },
+      "answer": "D",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "“took care of” gần nghĩa nhất với “looked after”. Xét nghĩa của từ/cụm từ trong ngữ cảnh câu, không chỉ dịch riêng lẻ."
+    },
+    {
+      "number": 15,
+      "type": "Đồng nghĩa",
+      "question": "Community service allows students to develop themselves.",
+      "question_html": "Community service <u>allows</u> students to develop themselves.",
+      "options": {
+        "A": "donates",
+        "B": "develops",
+        "C": "permits",
+        "D": "enjoys"
+      },
+      "options_html": {
+        "A": "donates",
+        "B": "develops",
+        "C": "permits",
+        "D": "enjoys"
+      },
+      "answer": "C",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "“allows” gần nghĩa nhất với “permits”. Xét nghĩa của từ/cụm từ trong ngữ cảnh câu, không chỉ dịch riêng lẻ."
+    },
+    {
+      "number": 16,
+      "type": "Đồng nghĩa",
+      "question": "Local communities often work together to preserve their cultural heritage and historical landmarks.",
+      "question_html": "Local communities often work together to <u>preserve</u> their cultural heritage and historical landmarks.",
+      "options": {
+        "A": "embroider",
+        "B": "save",
+        "C": "shorten",
+        "D": "collect"
+      },
+      "options_html": {
+        "A": "embroider",
+        "B": "save",
+        "C": "shorten",
+        "D": "collect"
+      },
+      "answer": "B",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "“preserve” gần nghĩa nhất với “save”. Xét nghĩa của từ/cụm từ trong ngữ cảnh câu, không chỉ dịch riêng lẻ."
+    },
+    {
+      "number": 17,
+      "type": "Trái nghĩa",
+      "question": "Long Hòa, a suburb of Ho Chi Minh City in Vietnam, is known for its tranquil environment and close-knit community.",
+      "question_html": "Long Hòa, a <u>suburb</u> of Ho Chi Minh City in Vietnam, is known for its tranquil environment and close-knit community.",
+      "options": {
+        "A": "neighborhood",
+        "B": "craft",
+        "C": "occasion",
+        "D": "city centre"
+      },
+      "options_html": {
+        "A": "neighborhood",
+        "B": "craft",
+        "C": "occasion",
+        "D": "city centre"
+      },
+      "answer": "D",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "“city centre” mang nghĩa đối lập với “suburb” trong câu. Đây là câu hỏi tìm từ trái nghĩa."
+    },
+    {
+      "number": 18,
+      "type": "Trái nghĩa",
+      "question": "The local government must not neglect the maintenance of community centers.",
+      "question_html": "The local government must not <u>neglect</u> the maintenance of community centers.",
+      "options": {
+        "A": "ask for",
+        "B": "put out",
+        "C": "look after",
+        "D": "move in"
+      },
+      "options_html": {
+        "A": "ask for",
+        "B": "put out",
+        "C": "look after",
+        "D": "move in"
+      },
+      "answer": "C",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "“look after” mang nghĩa đối lập với “neglect” trong câu. Đây là câu hỏi tìm từ trái nghĩa."
+    },
+    {
+      "number": 19,
+      "type": "Trái nghĩa",
+      "question": "The villagers preserve their traditional weaving techniques.",
+      "question_html": "The villagers <u>preserve</u> their traditional weaving techniques.",
+      "options": {
+        "A": "damage",
+        "B": "produce",
+        "C": "wrap",
+        "D": "collect"
+      },
+      "options_html": {
+        "A": "damage",
+        "B": "produce",
+        "C": "wrap",
+        "D": "collect"
+      },
+      "answer": "A",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "“damage” mang nghĩa đối lập với “preserve” trong câu. Đây là câu hỏi tìm từ trái nghĩa."
+    },
+    {
+      "number": 20,
+      "type": "Trái nghĩa",
+      "question": "Nick likes reading books. He has a very nice voice.",
+      "question_html": "Nick <u>likes</u> reading books. He has a very nice voice.",
+      "options": {
+        "A": "grows",
+        "B": "teaches",
+        "C": "loves",
+        "D": "hates"
+      },
+      "options_html": {
+        "A": "grows",
+        "B": "teaches",
+        "C": "loves",
+        "D": "hates"
+      },
+      "answer": "D",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "",
+      "explanation": "“hates” mang nghĩa đối lập với “likes” trong câu. Đây là câu hỏi tìm từ trái nghĩa."
+    },
+    {
+      "number": 21,
+      "type": "Trái nghĩa",
+      "question": "Lan will you join the Tutoring project because she is good at maths and English.",
+      "question_html": "Lan will you join the Tutoring project because she is <u>good</u> at maths and English.",
+      "options": {
+        "A": "lone",
+        "B": "bad",
+        "C": "elder ly",
+        "D": "rural"
+      },
+      "options_html": {
+        "A": "lone",
+        "B": "bad",
+        "C": "elder ly",
+        "D": "rural"
+      },
+      "answer": "B",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "",
+      "note": "Câu gốc có lỗi diễn đạt “Lan will you join”; giữ nguyên theo tài liệu.",
+      "explanation": "“bad” mang nghĩa đối lập với “good” trong câu. Đây là câu hỏi tìm từ trái nghĩa."
+    },
+    {
+      "number": 22,
+      "type": "Đọc điền từ",
+      "question": "Choose the correct word for blank (1).",
+      "question_html": "Choose the correct word for blank (1).",
+      "options": {
+        "A": "in",
+        "B": "of",
+        "C": "by",
+        "D": "with"
+      },
+      "options_html": {
+        "A": "in",
+        "B": "of",
+        "C": "by",
+        "D": "with"
+      },
+      "answer": "C",
+      "passage": "I’m fascinated (1) __________ traditional handicrafts. At weekends, I usually go to Bat Trang where I was born. It’s a (2) __________ village not far from Ha Noi center. My uncle and my aunt  still live in Bat Trang and they own a big workshop there. In fact, my grandparents (3) __________ that workshop and some years ago, my uncle and my aunt (4) __________ the business because my grandparents are very old. My grandfather is a well-known artisan in the village. Every time I go there, he teaches me how (5) ______ things from clay such as pots, vase and bowls.",
+      "passage_html": "I’m fascinated (1) __________ traditional handicrafts. At weekends, I usually go to Bat Trang where I was born. It’s a (2) __________ village not far from Ha Noi center. My uncle and my aunt  still live in Bat Trang and they own a big workshop there. In fact, my grandparents (3) __________ that workshop and some years ago, my uncle and my aunt (4) __________ the business because my grandparents are very old. My grandfather is a well-known artisan in the village. Every time I go there, he teaches me how (5) ______ things from clay such as pots, vase and bowls.",
+      "blank": 1,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “by”. fascinated by = bị cuốn hút bởi; by hand = làm bằng tay."
+    },
+    {
+      "number": 23,
+      "type": "Đọc điền từ",
+      "question": "Choose the correct word for blank (2).",
+      "question_html": "Choose the correct word for blank (2).",
+      "options": {
+        "A": "property",
+        "B": "pottery",
+        "C": "suburb",
+        "D": "painting"
+      },
+      "options_html": {
+        "A": "property",
+        "B": "pottery",
+        "C": "suburb",
+        "D": "painting"
+      },
+      "answer": "B",
+      "passage": "I’m fascinated (1) __________ traditional handicrafts. At weekends, I usually go to Bat Trang where I was born. It’s a (2) __________ village not far from Ha Noi center. My uncle and my aunt  still live in Bat Trang and they own a big workshop there. In fact, my grandparents (3) __________ that workshop and some years ago, my uncle and my aunt (4) __________ the business because my grandparents are very old. My grandfather is a well-known artisan in the village. Every time I go there, he teaches me how (5) ______ things from clay such as pots, vase and bowls.",
+      "passage_html": "I’m fascinated (1) __________ traditional handicrafts. At weekends, I usually go to Bat Trang where I was born. It’s a (2) __________ village not far from Ha Noi center. My uncle and my aunt  still live in Bat Trang and they own a big workshop there. In fact, my grandparents (3) __________ that workshop and some years ago, my uncle and my aunt (4) __________ the business because my grandparents are very old. My grandfather is a well-known artisan in the village. Every time I go there, he teaches me how (5) ______ things from clay such as pots, vase and bowls.",
+      "blank": 2,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “pottery”. pottery village = làng gốm."
+    },
+    {
+      "number": 24,
+      "type": "Đọc điền từ",
+      "question": "Choose the correct word for blank (3).",
+      "question_html": "Choose the correct word for blank (3).",
+      "options": {
+        "A": "went",
+        "B": "set",
+        "C": "started",
+        "D": "made"
+      },
+      "options_html": {
+        "A": "went",
+        "B": "set",
+        "C": "started",
+        "D": "made"
+      },
+      "answer": "C",
+      "passage": "I’m fascinated (1) __________ traditional handicrafts. At weekends, I usually go to Bat Trang where I was born. It’s a (2) __________ village not far from Ha Noi center. My uncle and my aunt  still live in Bat Trang and they own a big workshop there. In fact, my grandparents (3) __________ that workshop and some years ago, my uncle and my aunt (4) __________ the business because my grandparents are very old. My grandfather is a well-known artisan in the village. Every time I go there, he teaches me how (5) ______ things from clay such as pots, vase and bowls.",
+      "passage_html": "I’m fascinated (1) __________ traditional handicrafts. At weekends, I usually go to Bat Trang where I was born. It’s a (2) __________ village not far from Ha Noi center. My uncle and my aunt  still live in Bat Trang and they own a big workshop there. In fact, my grandparents (3) __________ that workshop and some years ago, my uncle and my aunt (4) __________ the business because my grandparents are very old. My grandfather is a well-known artisan in the village. Every time I go there, he teaches me how (5) ______ things from clay such as pots, vase and bowls.",
+      "blank": 3,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “started”. start a workshop = bắt đầu thành lập xưởng."
+    },
+    {
+      "number": 25,
+      "type": "Đọc điền từ",
+      "question": "Choose the correct word for blank (4).",
+      "question_html": "Choose the correct word for blank (4).",
+      "options": {
+        "A": "looked after",
+        "B": "took care",
+        "C": "set up",
+        "D": "took over"
+      },
+      "options_html": {
+        "A": "looked after",
+        "B": "took care",
+        "C": "set up",
+        "D": "took over"
+      },
+      "answer": "D",
+      "passage": "I’m fascinated (1) __________ traditional handicrafts. At weekends, I usually go to Bat Trang where I was born. It’s a (2) __________ village not far from Ha Noi center. My uncle and my aunt  still live in Bat Trang and they own a big workshop there. In fact, my grandparents (3) __________ that workshop and some years ago, my uncle and my aunt (4) __________ the business because my grandparents are very old. My grandfather is a well-known artisan in the village. Every time I go there, he teaches me how (5) ______ things from clay such as pots, vase and bowls.",
+      "passage_html": "I’m fascinated (1) __________ traditional handicrafts. At weekends, I usually go to Bat Trang where I was born. It’s a (2) __________ village not far from Ha Noi center. My uncle and my aunt  still live in Bat Trang and they own a big workshop there. In fact, my grandparents (3) __________ that workshop and some years ago, my uncle and my aunt (4) __________ the business because my grandparents are very old. My grandfather is a well-known artisan in the village. Every time I go there, he teaches me how (5) ______ things from clay such as pots, vase and bowls.",
+      "blank": 4,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “took over”. take over = tiếp quản công việc/kinh doanh."
+    },
+    {
+      "number": 26,
+      "type": "Đọc điền từ",
+      "question": "Choose the correct word for blank (5).",
+      "question_html": "Choose the correct word for blank (5).",
+      "options": {
+        "A": "to make",
+        "B": "making",
+        "C": "made",
+        "D": "to making"
+      },
+      "options_html": {
+        "A": "to make",
+        "B": "making",
+        "C": "made",
+        "D": "to making"
+      },
+      "answer": "A",
+      "passage": "I’m fascinated (1) __________ traditional handicrafts. At weekends, I usually go to Bat Trang where I was born. It’s a (2) __________ village not far from Ha Noi center. My uncle and my aunt  still live in Bat Trang and they own a big workshop there. In fact, my grandparents (3) __________ that workshop and some years ago, my uncle and my aunt (4) __________ the business because my grandparents are very old. My grandfather is a well-known artisan in the village. Every time I go there, he teaches me how (5) ______ things from clay such as pots, vase and bowls.",
+      "passage_html": "I’m fascinated (1) __________ traditional handicrafts. At weekends, I usually go to Bat Trang where I was born. It’s a (2) __________ village not far from Ha Noi center. My uncle and my aunt  still live in Bat Trang and they own a big workshop there. In fact, my grandparents (3) __________ that workshop and some years ago, my uncle and my aunt (4) __________ the business because my grandparents are very old. My grandfather is a well-known artisan in the village. Every time I go there, he teaches me how (5) ______ things from clay such as pots, vase and bowls.",
+      "blank": 5,
+      "image": "",
+      "note": "",
+      "explanation": "Chọn “to make”. how + to V = cách làm việc gì."
+    },
+    {
+      "number": 27,
+      "type": "Biển báo",
+      "question": "What does this sign mean?",
+      "question_html": "What does this sign mean?",
+      "options": {
+        "A": "Keeping away the cheating is unnecessary.",
+        "B": "There is a sign of cheating standing near here.",
+        "C": "It’s important to say no to cheating after class.",
+        "D": "Cheating in the classroom is prohibited"
+      },
+      "options_html": {
+        "A": "Keeping away the cheating is unnecessary.",
+        "B": "There is a sign of cheating standing near here.",
+        "C": "It’s important to say no to cheating after class.",
+        "D": "Cheating in the classroom is prohibited"
+      },
+      "answer": "D",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "data/assets/test1_sign_1.jpg",
+      "note": "",
+      "explanation": "Biển báo trong ảnh thể hiện: “Cheating in the classroom is prohibited”. Quan sát biểu tượng và các chữ trên biển để xác định yêu cầu/cảnh báo."
+    },
+    {
+      "number": 28,
+      "type": "Biển báo",
+      "question": "What does this sign mean?",
+      "question_html": "What does this sign mean?",
+      "options": {
+        "A": "You are not allowed to make noise here.",
+        "B": "Why don’t we use a book here?",
+        "C": "Keeping the books quiet is required.",
+        "D": "Reading a book is to keep quiet"
+      },
+      "options_html": {
+        "A": "You are not allowed to make noise here.",
+        "B": "Why don’t we use a book here?",
+        "C": "Keeping the books quiet is required.",
+        "D": "Reading a book is to keep quiet"
+      },
+      "answer": "A",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "data/assets/test1_sign_2.jpg",
+      "note": "",
+      "explanation": "Biển báo trong ảnh thể hiện: “You are not allowed to make noise here.”. Quan sát biểu tượng và các chữ trên biển để xác định yêu cầu/cảnh báo."
+    },
+    {
+      "number": 29,
+      "type": "Biển báo",
+      "question": "What does this sign mean?",
+      "question_html": "What does this sign mean?",
+      "options": {
+        "A": "Visitors can enter this area if wearing protective clothing",
+        "B": "This area is open to everyone",
+        "C": "This area is for authorized personal only.",
+        "D": "Visitors are allowed to enter this area."
+      },
+      "options_html": {
+        "A": "Visitors can enter this area if wearing protective clothing",
+        "B": "This area is open to everyone",
+        "C": "This area is for authorized personal only.",
+        "D": "Visitors are allowed to enter this area."
+      },
+      "answer": "C",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "data/assets/test1_sign_3.png",
+      "note": "",
+      "explanation": "Biển báo trong ảnh thể hiện: “This area is for authorized personal only.”. Quan sát biểu tượng và các chữ trên biển để xác định yêu cầu/cảnh báo."
+    },
+    {
+      "number": 30,
+      "type": "Biển báo",
+      "question": "What does this sign mean?",
+      "question_html": "What does this sign mean?",
+      "options": {
+        "A": "shows you where to find help.",
+        "B": "tells you where you are.",
+        "C": "asks you not to do something.",
+        "D": "shows you the escape route"
+      },
+      "options_html": {
+        "A": "shows you where to find help.",
+        "B": "tells you where you are.",
+        "C": "asks you not to do something.",
+        "D": "shows you the escape route"
+      },
+      "answer": "A",
+      "passage": "",
+      "passage_html": "",
+      "blank": null,
+      "image": "data/assets/test1_sign_4.png",
+      "note": "",
+      "explanation": "Biển báo trong ảnh thể hiện: “shows you where to find help.”. Quan sát biểu tượng và các chữ trên biển để xác định yêu cầu/cảnh báo."
+    }
+  ],
+  "parsing_warnings": []
+}
