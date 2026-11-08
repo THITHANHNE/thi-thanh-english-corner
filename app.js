@@ -59,7 +59,7 @@ async function rankingsPage(){if(state.demo){app.innerHTML=`<div class="card emp
 async function loadRanks(testId){if(!testId)return;try{const q=f.query(f.collection(db,'leaderboards'),f.where('testId','==',testId),f.orderBy('bestScore','desc'),f.limit(50));const snap=await f.getDocs(q);const items=snap.docs.map(d=>d.data()).sort((a,b)=>b.bestScore-a.bestScore||a.bestDuration-b.bestDuration);const aliases={};await Promise.all(items.map(async p=>{try{const d=await f.getDoc(f.doc(db,'publicProfiles',p.uid));aliases[p.uid]=d.exists()?d.data().alias:'Học sinh'}catch{aliases[p.uid]='Học sinh'}}));$('#rankBody').className='table-wrap';$('#rankBody').innerHTML=`<table><thead><tr><th>Hạng</th><th>Học sinh</th><th>Điểm tốt nhất</th><th>Thời gian</th></tr></thead><tbody>${items.map((p,i)=>`<tr><td>${['🥇','🥈','🥉'][i]||i+1}</td><td>${H(aliases[p.uid])}${p.uid===state.user.uid?' (em)':''}</td><td><b>${formatScore(p.bestScore)}</b></td><td>${fmtTime(p.bestDuration)}</td></tr>`).join('')||'<tr><td colspan="4">Chưa có ai hoàn thành bài này.</td></tr>'}</tbody></table>`}catch(e){$('#rankBody').textContent='Không tải được bảng xếp hạng: '+e.message+' (có thể cần tạo chỉ mục Firestore theo hướng dẫn).'}}
 function tabs(active){const items=[['overview','Tổng quan'],['tests','Quản lý đề'],['roster','Danh sách lớp'],['tracking','Đã làm / Chưa làm'],['history','Lịch sử điểm']];return `<div class="tabbar">${items.map(([id,label])=>`<button class="btn small ${active===id?'current':'secondary'}" data-action="${id==='overview'||id==='tests'?'admin-tab':id}" data-id="${id}">${label}</button>`).join('')}</div>`}
 function adminPage(){app.innerHTML=`<div class="hero"><div><span class="eyebrow">👩‍🏫 TEACHER'S DESK</span><h1>Góc quản trị của cô Thị Thành ♡</h1><p>Đăng đề mới, theo dõi học sinh và điểm số ngay trên web – không phải sửa code.</p></div><div class="sticker">📝</div></div><div class="space"></div>${tabs(state.tab)}<div id="adminContent"></div>`;adminTab()}
-function adminTab(){const c=$('#adminContent');if(state.tab==='tests'){c.innerHTML=`<div class="toolbar">${b('＋ Tạo bài mới','new-test')}${b('🎁 Nhập 8 bài TEST từ ZIP','seed','secondary')}<input type="file" id="excelTest" accept=".xlsx,.xls,.csv" hidden>${b('📥 Nhập bài từ Excel','import-test','outline')}${b('Mẫu Excel câu hỏi','test-template','outline')}</div><div class="info">Các Test mẫu được nhập trực tiếp vào Firebase một lần, không ghi đè đề đã có. Giáo viên có thể thêm, sửa, xóa và ẩn/hiện đề ở đây.</div><div class="table-wrap"><table><thead><tr><th>Tên đề</th><th>Số câu</th><th>Thời gian</th><th>Trạng thái</th><th>Thao tác</th></tr></thead><tbody>${state.tests.map(t=>`<tr><td><b>${H(t.name)}</b></td><td>${t.questions.length}</td><td>${t.duration} phút</td><td><span class="pill ${t.published?'ok':'warn'}">${t.published?'Đã đăng':'Đã ẩn'}</span></td><td><div class="actions"><button class="btn small secondary" data-action="edit-test" data-id="${H(t.id)}">Sửa</button><button class="btn small outline" data-action="toggle-test" data-id="${H(t.id)}">${t.published?'Ẩn':'Đăng'}</button><button class="btn small danger" data-action="delete-test" data-id="${H(t.id)}">Xóa</button></div></td></tr>`).join('')}</tbody></table></div>`;$('#excelTest').onchange=importTestExcel;return}c.innerHTML=`<div class="cols3"><div class="stat"><small>Bài kiểm tra đã tạo</small><b>${state.tests.length}</b></div><div class="stat"><small>Đã có lượt nộp bài</small><b>${state.progress.reduce((a,p)=>a+(p.attempts||0),0)}</b></div><div class="stat"><small>Học sinh đã tham gia</small><b>${new Set(state.progress.map(p=>p.uid)).size}</b></div></div><div class="section-head"><h2>🌸 Hành động nhanh</h2></div><div class="cards"><div class="card">🎁<h3>8 TEST G9</h3><p class="muted">Nhập 8 bài đã kiểm tra từ file ZIP</p>${b('Nhập đề mẫu','seed','secondary')}</div><div class="card">✏️<h3>Soạn bài mới</h3><p class="muted">Tạo và đăng ngay trên website</p>${b('Tạo bài','new-test','secondary')}</div><div class="card">👩‍🎓<h3>Danh sách lớp</h3><p class="muted">Nhập file Excel học sinh, cấp mã riêng</p>${b('Quản lý lớp','roster','secondary')}</div><div class="card">📊<h3>Theo dõi tiến độ</h3><p class="muted">Xem ai đã làm hay chưa làm từng đề</p>${b('Xem kết quả','tracking','secondary')}</div></div><div class="warning">Đây là website luyện tập. Điểm số được tính trên trình duyệt và có thể bị can thiệp bởi người biết kỹ thuật; không dùng cho kỳ thi chính thức hoặc đánh giá có tính bảo mật cao.</div>`}
+function adminTab(){const c=$('#adminContent');if(state.tab==='tests'){c.innerHTML=`<div class="toolbar">${b('＋ Tạo bài mới','new-test')}${b('🎁 Nhập 8 bài TEST từ ZIP','seed','secondary')}<input type="file" id="excelTest" accept=".xlsx,.xls,.csv" hidden>${b('📥 Nhập bài từ Excel','import-test','outline')}${b('Mẫu Excel câu hỏi','test-template','outline')}${b('📥 Sao lưu 8 Test','backup-tests','outline')}</div><div class="info">Các Test mẫu được nhập trực tiếp vào Firebase một lần, không ghi đè đề đã có. Giáo viên có thể thêm, sửa, xóa và ẩn/hiện đề ở đây.</div><div class="table-wrap"><table><thead><tr><th>Tên đề</th><th>Số câu</th><th>Thời gian</th><th>Trạng thái</th><th>Thao tác</th></tr></thead><tbody>${state.tests.map(t=>`<tr><td><b>${H(t.name)}</b></td><td>${t.questions.length}</td><td>${t.duration} phút</td><td><span class="pill ${t.published?'ok':'warn'}">${t.published?'Đã đăng':'Đã ẩn'}</span></td><td><div class="actions"><button class="btn small secondary" data-action="edit-test" data-id="${H(t.id)}">Sửa</button><button class="btn small outline" data-action="toggle-test" data-id="${H(t.id)}">${t.published?'Ẩn':'Đăng'}</button><button class="btn small danger" data-action="delete-test" data-id="${H(t.id)}">Xóa</button></div></td></tr>`).join('')}</tbody></table></div>`;$('#excelTest').onchange=importTestExcel;return}c.innerHTML=`<div class="cols3"><div class="stat"><small>Bài kiểm tra đã tạo</small><b>${state.tests.length}</b></div><div class="stat"><small>Đã có lượt nộp bài</small><b>${state.progress.reduce((a,p)=>a+(p.attempts||0),0)}</b></div><div class="stat"><small>Học sinh đã tham gia</small><b>${new Set(state.progress.map(p=>p.uid)).size}</b></div></div><div class="section-head"><h2>🌸 Hành động nhanh</h2></div><div class="cards"><div class="card">🎁<h3>8 TEST G9</h3><p class="muted">Nhập 8 bài đã kiểm tra từ file ZIP</p>${b('Nhập đề mẫu','seed','secondary')}</div><div class="card">✏️<h3>Soạn bài mới</h3><p class="muted">Tạo và đăng ngay trên website</p>${b('Tạo bài','new-test','secondary')}</div><div class="card">👩‍🎓<h3>Danh sách lớp</h3><p class="muted">Nhập file Excel học sinh, cấp mã riêng</p>${b('Quản lý lớp','roster','secondary')}</div><div class="card">📊<h3>Theo dõi tiến độ</h3><p class="muted">Xem ai đã làm hay chưa làm từng đề</p>${b('Xem kết quả','tracking','secondary')}</div></div><div class="warning">Đây là website luyện tập. Điểm số được tính trên trình duyệt và có thể bị can thiệp bởi người biết kỹ thuật; không dùng cho kỳ thi chính thức hoặc đánh giá có tính bảo mật cao.</div>`}
 async function seedTests(){if(!confirm('Nhập 8 đề G9 vào Firebase? Các đề đã tồn tại sẽ được giữ nguyên.'))return;try{let n=0;for(const m of state.manifest){const ref=f.doc(db,'tests',m.id);if((await f.getDoc(ref)).exists())continue;const data=await fetch(m.file).then(r=>r.json());await f.setDoc(ref,{name:data.test_name,questions:data.questions,duration:m.duration,published:true,createdAt:f.serverTimestamp()});n++}await loadTests();toast(`Đã thêm ${n} bài, giữ nguyên các bài đã có.`);render()}catch(e){toast('Lỗi nhập đề: '+e.message)}}
 const emptyQ=()=>({number:1,type:'Ngữ pháp – Từ vựng',question:'',question_html:'',options:{A:'',B:'',C:'',D:''},options_html:{},answer:'A',explanation:'',passage:'',passage_html:'',image:'',prompt:'',answer_text:''});
 function newTest(){state.edit={id:null,name:'Bài kiểm tra mới',duration:15,published:false,questions:[emptyQ()]};state.page='editor';render()}
@@ -79,6 +79,57 @@ function rosterPage(){app.innerHTML=`<div class="section-head"><h2>👩‍🎓 D
 async function addStudent(){const code=$('#studentCode').value.trim(),name=$('#studentName').value.trim(),cl=$('#studentClass').value.trim(),pwd=$('#studentPass').value;try{await createStudent(code,name,cl,pwd);toast('Đã cấp tài khoản cho '+name);state.page='roster';render()}catch(e){toast('Không cấp được: '+e.message)}}
 async function importRoster(e){const file=e.target.files?.[0];if(!file)return;try{const rows=excelRows(await readFile(file));const find=(row,names)=>{const key=Object.keys(row).find(k=>names.includes(slug(k)));return key?String(row[key]).trim():''};const parsed=rows.map((r,i)=>({code:find(r,['ma-hoc-sinh','ma','code','student-id']),name:find(r,['ho-ten','ten','name','full-name']),className:find(r,['lop','class','class-name']),password:find(r,['mat-khau','password'])||randomPassword()})).filter(r=>r.code||r.name);if(!parsed.length)throw Error('Thiếu cột Mã học sinh / Họ tên / Lớp');if(!confirm(`Chuẩn bị tạo ${parsed.length} tài khoản. Trình duyệt sẽ tải file mã và mật khẩu để cô lưu. Tiếp tục?`))return;const exported=[];let failures=0;for(const row of parsed){try{await createStudent(row.code,row.name,row.className,row.password);exported.push({...row,status:'Đã tạo'})}catch(err){exported.push({...row,status:'Lỗi: '+err.message});failures++}await sleep(100)}downloadCSV('tai-khoan-hoc-sinh.csv',exported,['code','name','className','password','status']);toast(`Đã xử lý ${parsed.length} em, ${failures} lỗi. File thông tin tài khoản đã tải về.`);state.page='roster';render()}catch(err){toast(err.message)}e.target.value=''}
 function rosterTemplate(){downloadCSV('mau-danh-sach-hoc-sinh.csv',[{code:'TT9A1-001',name:'Nguyễn Văn A',className:'9A1',password:''},{code:'TT9A1-002',name:'Trần Thị B',className:'9A1',password:''}],['code','name','className','password'])}
+
+async function backupTests() {
+  if (!state.admin || !state.user) {
+    toast('Chỉ giáo viên được sao lưu dữ liệu.');
+    return;
+  }
+
+  try {
+    const snapshot = await f.getDocs(
+      f.collection(db, 'tests')
+    );
+
+    const tests = snapshot.docs.map(doc => ({
+      id: doc.id,
+      ...doc.data()
+    }));
+
+    if (!tests.length) {
+      toast('Không tìm thấy bài Test để sao lưu.');
+      return;
+    }
+
+    const backup = {
+      project: 'Thi Thanh English Corner',
+      backedUpAt: new Date().toISOString(),
+      totalTests: tests.length,
+      tests
+    };
+
+    const blob = new Blob(
+      [JSON.stringify(backup, null, 2)],
+      { type: 'application/json;charset=utf-8' }
+    );
+
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+
+    a.href = url;
+    a.download = 'THI_THANH_BACKUP_8_TEST.json';
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+
+    setTimeout(() => URL.revokeObjectURL(url), 1000);
+
+    toast('Đã tạo bản sao lưu ' + tests.length + ' bài Test!');
+  } catch (error) {
+    toast('Sao lưu thất bại: ' + error.message);
+  }
+}
+
 function downloadCSV(name,rows,fields){const q=v=>'"'+String(v??'').replace(/"/g,'""')+'"';const str='\ufeff'+[fields.map(q).join(','),...rows.map(r=>fields.map(k=>q(r[k])).join(','))].join('\r\n');const blob=new Blob([str],{type:'text/csv;charset=utf-8'});const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download=name;a.click();setTimeout(()=>URL.revokeObjectURL(a.href),1000)}
 async function trackingPage(){app.innerHTML=`<div class="section-head"><h2>📋 Ai đã làm, ai chưa làm?</h2>${b('← Quản trị','admin','outline')}</div>${tabs('tracking')}<div class="toolbar"><select id="trackTest">${state.tests.map(t=>`<option value="${H(t.id)}">${H(t.name)}</option>`).join('')}</select><select id="trackClass"><option value="">Tất cả lớp</option></select>${b('📥 Xuất CSV','export-track','outline')}</div><div class="cols3" id="trackingStats"></div><div id="trackingTable" class="card empty">Đang tải danh sách…</div>`;try{await getRoster();const cls=[...new Set(state.students.map(x=>x.className))].sort();$('#trackClass').innerHTML+=[...cls].map(s=>`<option value="${H(s)}">${H(s)}</option>`).join('');$('#trackTest').onchange=showTracking;$('#trackClass').onchange=showTracking;showTracking()}catch(e){toast(e.message)}}
 function trackingRows(){const id=$('#trackTest').value,cl=$('#trackClass').value;return state.students.filter(s=>!cl||s.className===cl).map(s=>{const p=state.progress.find(p=>p.uid===s.uid&&p.testId===id);return {...s,done:!!p,attempts:p?.attempts||0,firstScore:p?.firstScore,bestScore:p?.bestScore,bestDuration:p?.bestDuration,lastAt:p?.lastAt}})}
